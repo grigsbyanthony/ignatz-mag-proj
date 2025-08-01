@@ -1,0 +1,23 @@
+#!/bin/bash
+
+echo "=== PHASE 1: QUALITY ASSESSMENT ==="
+
+# Step 1a: CheckM2 quality assessment
+echo "Running CheckM2 quality assessment..."
+mkdir -p results/quality_assessment
+checkm2 predict --threads 8 --input *.fna --output-directory results/quality_assessment/checkm2_results
+
+# Step 1b: Basic genome statistics
+echo "Computing basic genome statistics..."
+mkdir -p results/basic_stats
+for file in *.fna; do
+    base=$(basename "$file" .fna)
+    echo "Processing $base..."
+    seqkit stats -a "$file" > "results/basic_stats/${base}_detailed_stats.txt"
+done
+
+# Compile summary
+echo "Genome,Sequences,Total_Length,Min_Length,Max_Length,Average_Length,N50,GC_Content" > results/basic_stats/genome_summary.csv
+for file in *.fna; do
+    seqkit stats -T "$file" | tail -n 1 >> results/basic_stats/genome_summary.csv
+done

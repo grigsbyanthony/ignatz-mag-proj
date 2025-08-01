@@ -1,0 +1,9 @@
+for proteins in results/gene_prediction/*_proteins.faa; do
+        base=$(basename "$proteins" _proteins.faa)
+        echo "Annotating $base..."
+        emapper.py -i "$proteins" \
+                   --output "${base}_eggnog" \
+                   --output_dir results/functional_annotation/eggnog \
+                   --data_dir databases/eggnog \
+                   --cpu 8 --override
+    done

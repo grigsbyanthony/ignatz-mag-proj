@@ -1,0 +1,7 @@
+Metric,Min,Max,Mean,Std Dev
+Total Length (Mb),1.38,2.60,1.86,0.39
+Number of Contigs,45,352,247.1,83.5
+N50 (kb),5.2,63.8,14.9,18.7
+Max Contig (kb),18.8,128.7,45.4,34.4
+Average Contig (kb),5.0,38.9,10.5,10.8
+GC Content (%),38.7,44.1,41.0,1.5

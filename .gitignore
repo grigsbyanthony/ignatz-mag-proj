@@ -1,2 +1,11 @@
 .DS_Store
 MAGs/.DS_Store
+COMPARATIVE_ANALYSIS_SUMMARY.md
+HOST_MICROBE_INTERACTION_SUMMARY.md
+METHODS.md
+PANGENOME_ANALYSIS_SUMMARY.md
+PAPER_FRAMEWORK.md
+TERPENE_ANALYSIS_SUMMARY.md
+databases/eggnog/eggnog.db
+databases/eggnog/eggnog.taxa.db
+databases/eggnog/eggnog_proteins.dmnd

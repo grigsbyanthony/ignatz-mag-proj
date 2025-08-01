@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "=== PHASE 2: GENE PREDICTION ==="
+
+# Step 2: Gene prediction with Prodigal
+echo "Predicting genes with Prodigal..."
+mkdir -p results/gene_prediction
+for file in *.fna; do
+    base=$(basename "$file" .fna)
+    echo "Predicting genes for $base..."
+    
+    prodigal -i "$file" \
+             -o "results/gene_prediction/${base}_genes.gff" \
+             -a "results/gene_prediction/${base}_proteins.faa" \
+             -d "results/gene_prediction/${base}_nucleotides.fna" \
+             -f gff -p meta
+done

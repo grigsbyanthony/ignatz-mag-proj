@@ -1,0 +1,4 @@
+[07/31/2025 12:10:57 PM] INFO: Running CheckM2 version 1.1.0
+[07/31/2025 12:10:57 PM] INFO: Running quality prediction workflow with 1 threads.
+[07/31/2025 12:10:57 PM] INFO: Calling genes in 9 bins with 1 threads:
+[07/31/2025 12:11:21 PM] ERROR: Error: No protein files were generated in results/quality_assessment/checkm2_results/protein_files

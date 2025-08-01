@@ -1,0 +1,8 @@
+organism,genome_size_mb,gene_count,gc_content,at_bias,lifestyle,metabolic_pathways,stress_response,host
+Buchnera aphidicola,0.64,583,26.3,73.7,obligate_primary,8,minimal,Aphids
+Wigglesworthia glossinidia,0.7,611,22.5,77.5,obligate_primary,12,minimal,Tsetse flies
+Wolbachia pipientis,1.27,1195,35.2,64.8,facultative_secondary,25,moderate,Various insects
+Sodalis glossinidius,4.17,2432,54.7,45.3,facultative_secondary,45,high,Tsetse flies
+Blochmannia floridanus,0.71,583,27.4,72.6,obligate_primary,15,minimal,Carpenter ants
+Carsonella ruddii,0.16,182,16.5,83.5,obligate_primary,3,absent,Psyllids
+Ignatzschineria sp.,0.923,923,42.330232269095966,57.669767730904034,facultative_secondary,7,high,Insects (multiple)

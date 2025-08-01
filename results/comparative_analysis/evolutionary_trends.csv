@@ -1,0 +1,3 @@
+lifestyle,count,avg_genome_size_mb,avg_gene_count,avg_gc_content,avg_metabolic_pathways
+obligate_primary,4,0.5525,489.75,23.174999999999997,9.5
+facultative_secondary,3,2.121,1516.6666666666667,44.07674408969866,25.666666666666668

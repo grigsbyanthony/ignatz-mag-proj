@@ -1,0 +1,172 @@
+mag_id,module_id,module_name,completeness,present_genes,missing_genes
+GCA_030146865.1_ASM3014686v1,Glycolysis,Glycolysis (core pathway),0.5,"K00134,K01810,K01803","K01623,K00844,K00850"
+GCA_030146865.1_ASM3014686v1,TCA_cycle,Citrate cycle (TCA cycle),0.5,"K01647,K00164,K00658","K01902,K01681,K01903"
+GCA_030146865.1_ASM3014686v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_030146865.1_ASM3014686v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.6666666666666666,"K01783,K01807",K00615
+GCA_030146865.1_ASM3014686v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_030146865.1_ASM3014686v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.5,"K01586,K01915","K00928,K00133"
+GCA_030146865.1_ASM3014686v1,Purine_biosynthesis,Purine biosynthesis,0.5,"K01945,K01589","K00764,K00602"
+GCA_030146865.1_ASM3014686v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.5,"K00940,K01465","K00762,K00609"
+GCA_030146865.1_ASM3014686v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_030146865.1_ASM3014686v1,ATP_synthase,ATP synthase,0.0,,"K02108,K02111,K02115,K02112"
+GCA_030146865.1_ASM3014686v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.5,"K00793,K00794","K00082,K00861"
+GCA_030146865.1_ASM3014686v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_030146865.1_ASM3014686v1,Biotin_biosynthesis,Biotin biosynthesis,0.25,K01935,"K00833,K00652,K00060"
+GCA_030146865.1_ASM3014686v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_030146865.1_ASM3014686v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_030146865.1_ASM3014686v1,Sulfur_metabolism,Sulfur metabolism,0.0,,"K00380,K01011,K00392,K00381"
+GCA_030146865.1_ASM3014686v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_030146865.1_ASM3014686v1,DNA_replication,DNA replication,0.75,"K02342,K02314,K03469",K02315
+GCA_030146865.1_ASM3014686v1,Transcription,RNA polymerase,0.5,"K03046,K03043","K03040,K03041"
+GCA_046462275.1_ASM4646227v1,Glycolysis,Glycolysis (core pathway),0.3333333333333333,"K01810,K00134","K01623,K00844,K00850,K01803"
+GCA_046462275.1_ASM4646227v1,TCA_cycle,Citrate cycle (TCA cycle),0.5,"K01647,K00164,K00658","K01902,K01681,K01903"
+GCA_046462275.1_ASM4646227v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_046462275.1_ASM4646227v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.6666666666666666,"K01783,K01807",K00615
+GCA_046462275.1_ASM4646227v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.5,"K02078,K00059","K00648,K00668"
+GCA_046462275.1_ASM4646227v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.5,"K01586,K01915","K00928,K00133"
+GCA_046462275.1_ASM4646227v1,Purine_biosynthesis,Purine biosynthesis,0.75,"K01945,K00764,K00602",K01589
+GCA_046462275.1_ASM4646227v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.5,"K00762,K00940","K00609,K01465"
+GCA_046462275.1_ASM4646227v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_046462275.1_ASM4646227v1,ATP_synthase,ATP synthase,1.0,"K02111,K02108,K02115,K02112",
+GCA_046462275.1_ASM4646227v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.5,"K00793,K00794","K00082,K00861"
+GCA_046462275.1_ASM4646227v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_046462275.1_ASM4646227v1,Biotin_biosynthesis,Biotin biosynthesis,0.25,K00833,"K00652,K01935,K00060"
+GCA_046462275.1_ASM4646227v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_046462275.1_ASM4646227v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_046462275.1_ASM4646227v1,Sulfur_metabolism,Sulfur metabolism,0.25,K01011,"K00380,K00392,K00381"
+GCA_046462275.1_ASM4646227v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.5,"K01921,K02563","K05364,K01000"
+GCA_046462275.1_ASM4646227v1,DNA_replication,DNA replication,0.75,"K02342,K02314,K03469",K02315
+GCA_046462275.1_ASM4646227v1,Transcription,RNA polymerase,0.75,"K03040,K03046,K03043",K03041
+GCA_030153165.1_ASM3015316v1,Glycolysis,Glycolysis (core pathway),0.5,"K00134,K01810,K01803","K01623,K00844,K00850"
+GCA_030153165.1_ASM3015316v1,TCA_cycle,Citrate cycle (TCA cycle),0.5,"K01647,K00164,K00658","K01902,K01681,K01903"
+GCA_030153165.1_ASM3015316v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_030153165.1_ASM3015316v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.3333333333333333,K01807,"K01783,K00615"
+GCA_030153165.1_ASM3015316v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_030153165.1_ASM3015316v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.5,"K01586,K01915","K00928,K00133"
+GCA_030153165.1_ASM3015316v1,Purine_biosynthesis,Purine biosynthesis,0.25,K01945,"K01589,K00764,K00602"
+GCA_030153165.1_ASM3015316v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.5,"K00762,K01465","K00940,K00609"
+GCA_030153165.1_ASM3015316v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_030153165.1_ASM3015316v1,ATP_synthase,ATP synthase,0.25,K02108,"K02111,K02115,K02112"
+GCA_030153165.1_ASM3015316v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.25,K00794,"K00793,K00861,K00082"
+GCA_030153165.1_ASM3015316v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_030153165.1_ASM3015316v1,Biotin_biosynthesis,Biotin biosynthesis,0.0,,"K00833,K00652,K00060,K01935"
+GCA_030153165.1_ASM3015316v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_030153165.1_ASM3015316v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_030153165.1_ASM3015316v1,Sulfur_metabolism,Sulfur metabolism,0.25,K01011,"K00380,K00392,K00381"
+GCA_030153165.1_ASM3015316v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_030153165.1_ASM3015316v1,DNA_replication,DNA replication,0.75,"K02342,K02314,K03469",K02315
+GCA_030153165.1_ASM3015316v1,Transcription,RNA polymerase,0.5,"K03040,K03046","K03041,K03043"
+GCA_030151245.1_ASM3015124v1,Glycolysis,Glycolysis (core pathway),0.5,"K00134,K01810,K01803","K01623,K00844,K00850"
+GCA_030151245.1_ASM3015124v1,TCA_cycle,Citrate cycle (TCA cycle),0.5,"K01647,K00164,K00658","K01902,K01681,K01903"
+GCA_030151245.1_ASM3015124v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_030151245.1_ASM3015124v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.3333333333333333,K01807,"K01783,K00615"
+GCA_030151245.1_ASM3015124v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_030151245.1_ASM3015124v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.5,"K01586,K01915","K00928,K00133"
+GCA_030151245.1_ASM3015124v1,Purine_biosynthesis,Purine biosynthesis,1.0,"K01945,K01589,K00764,K00602",
+GCA_030151245.1_ASM3015124v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.5,"K00762,K00940","K00609,K01465"
+GCA_030151245.1_ASM3015124v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_030151245.1_ASM3015124v1,ATP_synthase,ATP synthase,0.5,"K02108,K02112","K02111,K02115"
+GCA_030151245.1_ASM3015124v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.5,"K00793,K00794","K00082,K00861"
+GCA_030151245.1_ASM3015124v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_030151245.1_ASM3015124v1,Biotin_biosynthesis,Biotin biosynthesis,1.0,"K00833,K00652,K01935,K00060",
+GCA_030151245.1_ASM3015124v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_030151245.1_ASM3015124v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_030151245.1_ASM3015124v1,Sulfur_metabolism,Sulfur metabolism,0.25,K01011,"K00380,K00392,K00381"
+GCA_030151245.1_ASM3015124v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_030151245.1_ASM3015124v1,DNA_replication,DNA replication,1.0,"K02315,K02342,K02314,K03469",
+GCA_030151245.1_ASM3015124v1,Transcription,RNA polymerase,0.5,"K03046,K03043","K03040,K03041"
+GCA_030149655.1_ASM3014965v1,Glycolysis,Glycolysis (core pathway),0.3333333333333333,"K00134,K01803","K01623,K00844,K01810,K00850"
+GCA_030149655.1_ASM3014965v1,TCA_cycle,Citrate cycle (TCA cycle),0.3333333333333333,"K00164,K00658","K01902,K01681,K01647,K01903"
+GCA_030149655.1_ASM3014965v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_030149655.1_ASM3014965v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.0,,"K01783,K01807,K00615"
+GCA_030149655.1_ASM3014965v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_030149655.1_ASM3014965v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.25,K01915,"K01586,K00928,K00133"
+GCA_030149655.1_ASM3014965v1,Purine_biosynthesis,Purine biosynthesis,1.0,"K01945,K01589,K00764,K00602",
+GCA_030149655.1_ASM3014965v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.5,"K00762,K01465","K00940,K00609"
+GCA_030149655.1_ASM3014965v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_030149655.1_ASM3014965v1,ATP_synthase,ATP synthase,0.25,K02112,"K02111,K02108,K02115"
+GCA_030149655.1_ASM3014965v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.5,"K00793,K00794","K00082,K00861"
+GCA_030149655.1_ASM3014965v1,Folate_biosynthesis,Folate biosynthesis,0.5,"K00796,K00287","K00950,K01495"
+GCA_030149655.1_ASM3014965v1,Biotin_biosynthesis,Biotin biosynthesis,0.75,"K00833,K00652,K01935",K00060
+GCA_030149655.1_ASM3014965v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_030149655.1_ASM3014965v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_030149655.1_ASM3014965v1,Sulfur_metabolism,Sulfur metabolism,0.0,,"K00380,K01011,K00392,K00381"
+GCA_030149655.1_ASM3014965v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_030149655.1_ASM3014965v1,DNA_replication,DNA replication,0.75,"K02342,K02314,K03469",K02315
+GCA_030149655.1_ASM3014965v1,Transcription,RNA polymerase,0.5,"K03046,K03043","K03040,K03041"
+GCA_030152945.1_ASM3015294v1,Glycolysis,Glycolysis (core pathway),0.5,"K00134,K01810,K01803","K01623,K00844,K00850"
+GCA_030152945.1_ASM3015294v1,TCA_cycle,Citrate cycle (TCA cycle),0.5,"K01647,K00164,K00658","K01902,K01681,K01903"
+GCA_030152945.1_ASM3015294v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_030152945.1_ASM3015294v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.6666666666666666,"K01783,K01807",K00615
+GCA_030152945.1_ASM3015294v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_030152945.1_ASM3015294v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.75,"K01586,K00133,K01915",K00928
+GCA_030152945.1_ASM3015294v1,Purine_biosynthesis,Purine biosynthesis,0.75,"K01945,K01589,K00764",K00602
+GCA_030152945.1_ASM3015294v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.5,"K00762,K00940","K00609,K01465"
+GCA_030152945.1_ASM3015294v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_030152945.1_ASM3015294v1,ATP_synthase,ATP synthase,0.25,K02112,"K02111,K02108,K02115"
+GCA_030152945.1_ASM3015294v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.0,,"K00861,K00793,K00794,K00082"
+GCA_030152945.1_ASM3015294v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_030152945.1_ASM3015294v1,Biotin_biosynthesis,Biotin biosynthesis,0.5,"K00833,K00652","K01935,K00060"
+GCA_030152945.1_ASM3015294v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_030152945.1_ASM3015294v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_030152945.1_ASM3015294v1,Sulfur_metabolism,Sulfur metabolism,0.0,,"K00380,K01011,K00392,K00381"
+GCA_030152945.1_ASM3015294v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_030152945.1_ASM3015294v1,DNA_replication,DNA replication,0.75,"K02342,K02314,K03469",K02315
+GCA_030152945.1_ASM3015294v1,Transcription,RNA polymerase,0.75,"K03040,K03046,K03043",K03041
+GCA_030150405.1_ASM3015040v1,Glycolysis,Glycolysis (core pathway),0.16666666666666666,K01803,"K00844,K01810,K00134,K01623,K00850"
+GCA_030150405.1_ASM3015040v1,TCA_cycle,Citrate cycle (TCA cycle),0.5,"K01647,K00164,K00658","K01902,K01681,K01903"
+GCA_030150405.1_ASM3015040v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_030150405.1_ASM3015040v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.6666666666666666,"K01783,K01807",K00615
+GCA_030150405.1_ASM3015040v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_030150405.1_ASM3015040v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.5,"K01586,K01915","K00928,K00133"
+GCA_030150405.1_ASM3015040v1,Purine_biosynthesis,Purine biosynthesis,0.75,"K01945,K01589,K00764",K00602
+GCA_030150405.1_ASM3015040v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.25,K00940,"K00762,K00609,K01465"
+GCA_030150405.1_ASM3015040v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_030150405.1_ASM3015040v1,ATP_synthase,ATP synthase,1.0,"K02111,K02108,K02115,K02112",
+GCA_030150405.1_ASM3015040v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.5,"K00793,K00794","K00082,K00861"
+GCA_030150405.1_ASM3015040v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_030150405.1_ASM3015040v1,Biotin_biosynthesis,Biotin biosynthesis,0.75,"K00833,K00652,K01935",K00060
+GCA_030150405.1_ASM3015040v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_030150405.1_ASM3015040v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_030150405.1_ASM3015040v1,Sulfur_metabolism,Sulfur metabolism,0.25,K01011,"K00380,K00392,K00381"
+GCA_030150405.1_ASM3015040v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_030150405.1_ASM3015040v1,DNA_replication,DNA replication,1.0,"K02315,K02342,K02314,K03469",
+GCA_030150405.1_ASM3015040v1,Transcription,RNA polymerase,0.75,"K03040,K03046,K03043",K03041
+GCA_046462395.1_ASM4646239v1,Glycolysis,Glycolysis (core pathway),0.5,"K00134,K01810,K01803","K01623,K00844,K00850"
+GCA_046462395.1_ASM4646239v1,TCA_cycle,Citrate cycle (TCA cycle),0.5,"K01647,K00164,K00658","K01902,K01681,K01903"
+GCA_046462395.1_ASM4646239v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_046462395.1_ASM4646239v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.6666666666666666,"K01783,K01807",K00615
+GCA_046462395.1_ASM4646239v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_046462395.1_ASM4646239v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.5,"K01586,K01915","K00928,K00133"
+GCA_046462395.1_ASM4646239v1,Purine_biosynthesis,Purine biosynthesis,0.75,"K01589,K00764,K00602",K01945
+GCA_046462395.1_ASM4646239v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.25,K01465,"K00762,K00940,K00609"
+GCA_046462395.1_ASM4646239v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),1.0,"K00333,K00330,K00332,K00331",
+GCA_046462395.1_ASM4646239v1,ATP_synthase,ATP synthase,0.0,,"K02108,K02111,K02115,K02112"
+GCA_046462395.1_ASM4646239v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.5,"K00793,K00794","K00082,K00861"
+GCA_046462395.1_ASM4646239v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_046462395.1_ASM4646239v1,Biotin_biosynthesis,Biotin biosynthesis,0.75,"K00833,K00652,K01935",K00060
+GCA_046462395.1_ASM4646239v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_046462395.1_ASM4646239v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_046462395.1_ASM4646239v1,Sulfur_metabolism,Sulfur metabolism,0.25,K01011,"K00380,K00392,K00381"
+GCA_046462395.1_ASM4646239v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_046462395.1_ASM4646239v1,DNA_replication,DNA replication,0.75,"K02342,K02314,K03469",K02315
+GCA_046462395.1_ASM4646239v1,Transcription,RNA polymerase,0.5,"K03046,K03043","K03040,K03041"
+GCA_030151425.1_ASM3015142v1,Glycolysis,Glycolysis (core pathway),0.3333333333333333,"K01810,K01803","K01623,K00844,K00850,K00134"
+GCA_030151425.1_ASM3015142v1,TCA_cycle,Citrate cycle (TCA cycle),0.3333333333333333,"K00164,K00658","K01902,K01681,K01647,K01903"
+GCA_030151425.1_ASM3015142v1,PPP_oxidative,Pentose phosphate pathway (oxidative),0.0,,"K00036,K00033,K01057"
+GCA_030151425.1_ASM3015142v1,PPP_non_oxidative,Pentose phosphate pathway (non-oxidative),0.6666666666666666,"K01783,K01807",K00615
+GCA_030151425.1_ASM3015142v1,Fatty_acid_biosynthesis,Fatty acid biosynthesis,0.75,"K00648,K02078,K00059",K00668
+GCA_030151425.1_ASM3015142v1,Amino_acid_biosynthesis,Amino acid biosynthesis (core),0.5,"K01586,K01915","K00928,K00133"
+GCA_030151425.1_ASM3015142v1,Purine_biosynthesis,Purine biosynthesis,0.75,"K01945,K01589,K00602",K00764
+GCA_030151425.1_ASM3015142v1,Pyrimidine_biosynthesis,Pyrimidine biosynthesis,0.5,"K00940,K01465","K00762,K00609"
+GCA_030151425.1_ASM3015142v1,Oxidative_phosphorylation,Oxidative phosphorylation (Complex I),0.0,,"K00333,K00330,K00332,K00331"
+GCA_030151425.1_ASM3015142v1,ATP_synthase,ATP synthase,0.25,K02112,"K02111,K02108,K02115"
+GCA_030151425.1_ASM3015142v1,Riboflavin_biosynthesis,Riboflavin biosynthesis,0.25,K00793,"K00082,K00794,K00861"
+GCA_030151425.1_ASM3015142v1,Folate_biosynthesis,Folate biosynthesis,0.75,"K00796,K00950,K00287",K01495
+GCA_030151425.1_ASM3015142v1,Biotin_biosynthesis,Biotin biosynthesis,0.75,"K00833,K00652,K01935",K00060
+GCA_030151425.1_ASM3015142v1,Cobalamin_biosynthesis,Cobalamin biosynthesis,0.0,,"K02191,K02189,K02190,K00595"
+GCA_030151425.1_ASM3015142v1,Nitrogen_metabolism,Nitrogen metabolism,0.25,K01915,"K00362,K01916,K00363"
+GCA_030151425.1_ASM3015142v1,Sulfur_metabolism,Sulfur metabolism,0.25,K01011,"K00380,K00392,K00381"
+GCA_030151425.1_ASM3015142v1,Cell_wall_biosynthesis,Peptidoglycan biosynthesis,0.75,"K01000,K01921,K02563",K05364
+GCA_030151425.1_ASM3015142v1,DNA_replication,DNA replication,0.75,"K02342,K02314,K03469",K02315
+GCA_030151425.1_ASM3015142v1,Transcription,RNA polymerase,0.25,K03046,"K03040,K03041,K03043"

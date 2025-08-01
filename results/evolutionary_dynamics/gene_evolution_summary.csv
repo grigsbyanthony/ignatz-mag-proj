@@ -1,0 +1,1953 @@
+gene_family,presence_count,category,annotation
+COG0137,9.0,common,Belongs to the argininosuccinate synthase family. Type 1 subfamily
+COG0737,9.0,common,"5'-nucleotidase, C-terminal domain"
+COG2239,9.0,common,Acts as a magnesium transporter
+COG0604,9.0,common,Quinone oxidoreductase
+COG0425,9.0,common,Belongs to the sulfur carrier protein TusA family
+COG0741,9.0,common,Lytic murein transglycosylase
+COG0494,9.0,common,Belongs to the Nudix hydrolase family
+COG0477,9.0,common,Major facilitator superfamily
+COG0617,9.0,common,"Adds poly(A) tail to the 3' end of many RNAs, which usually targets these RNAs for decay. Plays a significant role in the global control of gene expression, through influencing the rate of transcript degradation, and in the general RNA quality control"
+COG4942,9.0,common,membrane
+COG0280,9.0,common,Malic enzyme
+COG0568,9.0,common,RNA polymerase sigma factor RpoH
+COG1249,9.0,common,Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family
+COG0009,9.0,common,"Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine. Catalyzes the conversion of L-threonine, HCO(3)(-) CO(2) and ATP to give threonylcarbamoyl-AMP (TC-AMP) as the acyladenylate intermediate, with the release of diphosphate"
+COG1464,9.0,common,Belongs to the nlpA lipoprotein family
+COG0537,9.0,common,Histidine triad (HIT) protein
+COG0251,9.0,common,endoribonuclease
+COG0354,9.0,common,Belongs to the GcvT family
+COG0625,9.0,common,Glutathione S-transferase
+COG0787,9.0,common,Catalyzes the interconversion of L-alanine and D- alanine. May also act on other amino acids
+COG0790,9.0,common,beta-lactamase activity
+COG0782,9.0,common,"Necessary for efficient RNA polymerase transcription elongation past template-encoded arresting sites. The arresting sites in DNA have the property of trapping a certain fraction of elongating RNA polymerases that pass through, resulting in locked ternary complexes. Cleavage of the nascent transcript by cleavage factors such as GreA or GreB allows the resumption of elongation from the new 3'terminus. GreB releases sequences of up to 9 nucleotides in length"
+COG0304,9.0,common,Belongs to the beta-ketoacyl-ACP synthases family
+COG0578,9.0,common,Belongs to the FAD-dependent glycerol-3-phosphate dehydrogenase family
+COG0554,9.0,common,Key enzyme in the regulation of glycerol uptake and metabolism. Catalyzes the phosphorylation of glycerol to yield sn- glycerol 3-phosphate
+COG3258,9.0,common,"Cytochrome C oxidase, cbb3-type, subunit III"
+COG2863,9.0,common,"Cytochrome C oxidase, cbb3-type, subunit III"
+COG1132,9.0,common,(ABC) transporter
+COG0351,9.0,common,Phosphomethylpyrimidine kinase
+COG0265,9.0,common,Belongs to the peptidase S1C family
+COG0635,9.0,common,Involved in the biosynthesis of porphyrin-containing compound
+COG0187,9.0,common,Topoisomerase IV is essential for chromosome segregation. It relaxes supercoiled DNA. Performs the decatenation events required during the replication of a circular DNA molecule
+COG2974,9.0,common,May be involved in recombination
+COG2265,9.0,common,Catalyzes the formation of 5-methyl-uridine at position 1939 (m5U1939) in 23S rRNA
+COG0727,9.0,common,PFAM Uncharacterised protein family (UPF0153)
+COG0493,9.0,common,"2 iron, 2 sulfur cluster binding"
+COG2137,9.0,common,regulation of DNA repair
+2AT6R,9.0,common,-
+COG2911,9.0,common,Pathogenicity protein
+COG0327,9.0,common,NIF3 (NGG1p interacting factor 3)
+COG0243,9.0,common,Molydopterin dinucleotide binding domain
+COG0437,9.0,common,"Formate dehydrogenase N, transmembrane"
+COG0514,9.0,common,DNA helicase
+COG0225,9.0,common,Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine
+COG2010,9.0,common,"Cytochrome c, mono-and diheme variants family"
+COG0136,9.0,common,Catalyzes the NADPH-dependent formation of L-aspartate- semialdehyde (L-ASA) by the reductive dephosphorylation of L- aspartyl-4-phosphate
+COG1048,9.0,common,Catalyzes the isomerization of citrate to isocitrate via cis-aconitate
+COG0811,9.0,common,Biopolymer
+COG0848,9.0,common,Biopolymer
+COG1283,9.0,common,Na+/Pi-cotransporter
+COG4974,9.0,common,Tyrosine recombinase xerD
+COG1694,9.0,common,Nucleoside triphosphate
+COG1570,9.0,common,"Bidirectionally degrades single-stranded DNA into large acid-insoluble oligonucleotides, which are then degraded further into small acid-soluble oligonucleotides"
+COG0745,9.0,common,response regulator
+COG0500,9.0,common,Methyltransferase domain
+COG4221,9.0,common,Belongs to the short-chain dehydrogenases reductases (SDR) family
+COG2227,9.0,common,Tellurite resistance protein TehB
+COG3187,9.0,common,META domain
+COG3585,9.0,common,TOBE domain protein
+COG2873,9.0,common,O-acetylhomoserine
+COG1055,9.0,common,Involved in arsenical resistance. Thought to form the channel of an arsenite pump
+COG0061,9.0,common,"Involved in the regulation of the intracellular balance of NAD and NADP, and is a key enzyme in the biosynthesis of NADP. Catalyzes specifically the phosphorylation on 2'-hydroxyl of the adenosine moiety of NAD to yield NADP"
+COG0446,9.0,common,L-lysine 6-monooxygenase (NADPH-requiring)
+COG0064,9.0,common,GatB domain
+COG0154,9.0,common,Catalyzes the hydrolysis of a monocarboxylic acid amid to form a monocarboxylate and ammonia
+COG0721,9.0,common,Glu-tRNAGln amidotransferase C subunit
+COG1934,9.0,common,lipopolysaccharide binding
+COG1137,9.0,common,abc transporter atp-binding protein
+COG2925,9.0,common,Exonucleolytic cleavage in the 3'- to 5'-direction to yield nucleoside 5'-phosphates
+COG1040,9.0,common,competence protein
+COG2885,9.0,common,Belongs to the ompA family
+COG0697,9.0,common,EamA-like transporter family
+COG0583,9.0,common,LysR substrate binding domain
+COG1704,9.0,common,LemA family
+COG0513,9.0,common,DEAD-box RNA helicase involved in RNA degradation. Has RNA-dependent ATPase activity and unwinds double-stranded RNA
+COG1403,9.0,common,HNH endonuclease
+COG2217,9.0,common,Heavy metal translocating P-type atpase
+COG1473,9.0,common,Peptidase dimerisation domain
+COG2076,9.0,common,Multidrug Resistance protein
+COG0028,9.0,common,Belongs to the TPP enzyme family
+COG1113,9.0,common,Gamma-aminobutyrate permease and related permeases
+COG1292,9.0,common,Belongs to the BCCT transporter (TC 2.A.15) family
+COG5295,9.0,common,YadA-like membrane anchor domain
+COG0317,9.0,common,In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance
+COG0407,9.0,common,Catalyzes the decarboxylation of four acetate groups of uroporphyrinogen-III to yield coproporphyrinogen-III
+COG1629,9.0,common,TonB-dependent receptor
+COG1459,9.0,common,Type II secretory pathway
+COG0124,9.0,common,Histidyl-tRNA synthetase
+COG2976,9.0,common,Protein conserved in bacteria
+COG1520,9.0,common,"Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane"
+COG1160,9.0,common,GTPase that plays an essential role in the late steps of ribosome biogenesis
+COG0424,9.0,common,Maf-like protein
+COG2913,9.0,common,Gram-negative-bacterium-type cell outer membrane assembly
+COG0488,9.0,common,mutations in this gene affect RecA-independent excision of transposons and affects Mu bacteriophage growth
+29YXB,9.0,common,-
+COG0337,9.0,common,Catalyzes the conversion of 3-deoxy-D-arabino- heptulosonate 7-phosphate (DAHP) to dehydroquinate (DHQ)
+COG0703,9.0,common,Catalyzes the specific phosphorylation of the 3-hydroxyl group of shikimic acid using ATP as a cosubstrate
+COG1966,9.0,common,Carbon starvation protein
+COG4535,9.0,common,Transporter
+COG0744,9.0,common,Cell wall formation. Synthesis of cross-linked peptidoglycan from the lipid intermediates. The enzyme has a penicillin-insensitive transglycosylase N-terminal domain (formation of linear glycan strands) and a penicillin-sensitive transpeptidase C-terminal domain (cross-linking of the peptide subunits)
+COG0457,9.0,common,Tetratricopeptide repeat
+COG1530,9.0,common,Endoribonuclease that plays a central role in RNA processing and decay. Required for the maturation of 5S and 16S rRNAs and the majority of tRNAs. Also involved in the degradation of most mRNAs
+COG0427,9.0,common,acetyl-CoA hydrolase
+COG0116,9.0,common,Specifically methylates the guanine in position 2445 (m2G2445) and the guanine in position 2069 (m7G2069) of 23S rRNA
+COG2916,9.0,common,H-NS histone family
+COG5316,9.0,common,Domain of unknown function (DUF4139)
+28RV9,9.0,common,-
+COG0508,9.0,common,acetyltransferase component of pyruvate dehydrogenase complex
+2EHQ5,9.0,common,Cbb3-type cytochrome oxidase component FixQ
+COG2993,9.0,common,"COG2993 Cbb3-type cytochrome oxidase, cytochrome c subunit"
+COG0550,9.0,common,"Releases the supercoiling and torsional tension of DNA, which is introduced during the DNA replication and transcription, by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at a target site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(5'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 3'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand, thus removing DNA supercoils. Finally, in the religation step, the DNA 3'-OH attacks the covalent intermediate to expel the active-site tyrosine and restore the DNA phosphodiester backbone"
+COG0169,9.0,common,"Involved in the biosynthesis of the chorismate, which leads to the biosynthesis of aromatic amino acids. Catalyzes the reversible NADPH linked reduction of 3-dehydroshikimate (DHSA) to yield shikimate (SA)"
+COG0323,9.0,common,"This protein is involved in the repair of mismatches in DNA. It is required for dam-dependent methyl-directed DNA mismatch repair. May act as a molecular matchmaker , a protein that promotes the formation of a stable complex between two or more DNA-binding proteins in an ATP-dependent manner without itself being part of a final effector complex"
+COG3317,9.0,common,NlpB/DapX lipoprotein
+COG0329,9.0,common,Catalyzes the condensation of (S)-aspartate-beta- semialdehyde (S)-ASA and pyruvate to 4-hydroxy- tetrahydrodipicolinate (HTPA)
+COG0708,9.0,common,exodeoxyribonuclease III
+COG0174,9.0,common,highly regulated protein controlled by the addition removal of adenylyl groups by adenylyltransferase from specific tyrosine residues
+COG0336,9.0,common,Belongs to the RNA methyltransferase TrmD family
+COG0188,9.0,common,"A type II topoisomerase that negatively supercoils closed circular double-stranded (ds) DNA in an ATP-dependent manner to modulate DNA topology and maintain chromosomes in an underwound state. Negative supercoiling favors strand separation, and DNA replication, transcription, recombination and repair, all of which involve strand separation. Also able to catalyze the interconversion of other topological isomers of dsDNA rings, including catenanes and knotted rings. Type II topoisomerases break and join 2 DNA strands simultaneously in an ATP-dependent manner"
+COG0402,9.0,common,Cytosine deaminase and related metal-dependent hydrolases
+COG0037,9.0,common,"Catalyzes the ATP-dependent 2-thiolation of cytidine in position 32 of tRNA, to form 2-thiocytidine (s(2)C32). The sulfur atoms are provided by the cysteine cysteine desulfurase (IscS) system"
+COG1028,9.0,common,Catalyzes the first of the two reduction steps in the elongation cycle of fatty acid synthesis
+COG4582,9.0,common,Cell division protein
+COG0237,9.0,common,Catalyzes the phosphorylation of the 3'-hydroxyl group of dephosphocoenzyme A to form coenzyme A
+COG1989,9.0,common,Cleaves type-4 fimbrial leader sequence and methylates the N-terminal (generally Phe) residue
+COG0511,9.0,common,"first, biotin carboxylase catalyzes the carboxylation of the carrier protein and then the transcarboxylase transfers the carboxyl group to form malonyl-CoA"
+COG1168,9.0,common,Aminotransferase class I and II
+COG2195,9.0,common,Peptidase family M20/M25/M40
+COG0564,9.0,common,Responsible for synthesis of pseudouridine from uracil
+COG0615,9.0,common,Cytidylyltransferase-like
+COG0189,9.0,common,Sugar-transfer associated ATP-grasp
+COG1305,9.0,common,7 transmembrane helices usually fused to an inactive transglutaminase
+COG2183,9.0,common,accessory protein
+COG0764,9.0,common,"Necessary for the introduction of cis unsaturation into fatty acids. Catalyzes the dehydration of (3R)-3-hydroxydecanoyl- ACP to E-(2)-decenoyl-ACP and then its isomerization to Z-(3)- decenoyl-ACP. Can catalyze the dehydratase reaction for beta- hydroxyacyl-ACPs with saturated chain lengths up to 16 0, being most active on intermediate chain length"
+COG1560,9.0,common,Catalyzes the transfer of laurate from lauroyl-acyl carrier protein (ACP) to Kdo(2)-lipid IV(A) to form Kdo(2)- (lauroyl)-lipid IV(A)
+COG0454,9.0,common,FR47-like protein
+COG0294,9.0,common,"Catalyzes the condensation of para-aminobenzoate (pABA) with 6-hydroxymethyl-7,8-dihydropterin diphosphate (DHPt-PP) to form 7,8-dihydropteroate (H2Pte), the immediate precursor of folate derivatives"
+COG3409,9.0,common,Putative peptidoglycan binding domain
+COG0445,9.0,common,"NAD-binding protein involved in the addition of a carboxymethylaminomethyl (cmnm) group at the wobble position (U34) of certain tRNAs, forming tRNA-cmnm(5)s(2)U34"
+COG0567,9.0,common,dehydrogenase E1 component
+COG0845,9.0,common,Barrel-sandwich domain of CusB or HlyD membrane-fusion
+COG0628,9.0,common,AI-2E family transporter
+COG0346,9.0,common,Glyoxalase
+COG2271,9.0,common,Major Facilitator Superfamily
+COG0760,9.0,common,PFAM PpiC-type peptidyl-prolyl cis-trans isomerase
+COG0607,9.0,common,COG0607 Rhodanese-related sulfurtransferase
+COG1109,9.0,common,phosphomannomutase
+COG0842,9.0,common,Transport permease protein
+COG1187,9.0,common,Belongs to the pseudouridine synthase RsuA family
+COG0612,9.0,common,Insulinase (Peptidase family M16)
+COG0777,9.0,common,Component of the acetyl coenzyme A carboxylase (ACC) complex. Biotin carboxylase (BC) catalyzes the carboxylation of biotin on its carrier protein (BCCP) and then the CO(2) group is transferred by the transcarboxylase to acetyl-CoA to form malonyl- CoA
+COG0793,9.0,common,Belongs to the peptidase S41A family
+COG0163,9.0,common,Flavin prenyltransferase that catalyzes the synthesis of the prenylated FMN cofactor (prenyl-FMN) for 4-hydroxy-3- polyprenylbenzoic acid decarboxylase UbiD. The prenyltransferase is metal-independent and links a dimethylallyl moiety from dimethylallyl monophosphate (DMAP) to the flavin N5 and C6 atoms of FMN
+2ATBU,9.0,common,RDD family
+COG1012,9.0,common,Aldehyde dehydrogenase
+COG0060,9.0,common,"amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile)"
+COG1376,9.0,common,"L,D-transpeptidase catalytic domain"
+COG0665,9.0,common,FAD dependent oxidoreductase
+COG0491,9.0,common,Zn-dependent hydrolases including glyoxylases
+COG2233,9.0,common,Permease family
+COG2956,9.0,common,"Modulates cellular lipopolysaccharide (LPS) levels by regulating LpxC, which is involved in lipid A biosynthesis. May act by modulating the proteolytic activity of FtsH towards LpxC. May also coordinate assembly of proteins involved in LPS synthesis at the plasma membrane"
+COG1051,9.0,common,NUDIX domain
+COG0597,9.0,common,This protein specifically catalyzes the removal of signal peptides from prolipoproteins
+COG0288,9.0,common,Reversible hydration of carbon dioxide
+COG0761,9.0,common,Catalyzes the conversion of 1-hydroxy-2-methyl-2-(E)- butenyl 4-diphosphate (HMBPP) into a mixture of isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP). Acts in the terminal step of the DOXP MEP pathway for isoprenoid precursor biosynthesis
+COG1171,9.0,common,"Catalyzes the anaerobic formation of alpha-ketobutyrate and ammonia from threonine in a two-step reaction. The first step involved a dehydration of threonine and a production of enamine intermediates (aminocrotonate), which tautomerizes to its imine form (iminobutyrate). Both intermediates are unstable and short- lived. The second step is the nonenzymatic hydrolysis of the enamine imine intermediates to form 2-ketobutyrate and free ammonia. In the low water environment of the cell, the second step is accelerated by RidA"
+COG3172,9.0,common,Cytidylyltransferase-like
+COG1502,9.0,common,Catalyzes the reversible phosphatidyl group transfer from one phosphatidylglycerol molecule to another to form cardiolipin (CL) (diphosphatidylglycerol) and glycerol
+COG3218,9.0,common,ABC-type transport auxiliary lipoprotein component
+COG1463,9.0,common,"ABC-type transport system involved in resistance to organic solvents, periplasmic component"
+COG1127,9.0,common,ABC transporter
+COG0767,9.0,common,"abc transporter, permease"
+COG1525,9.0,common,Staphylococcal nuclease homologues
+COG1267,9.0,common,Lipid phosphatase which dephosphorylates phosphatidylglycerophosphate (PGP) to phosphatidylglycerol (PG)
+COG1949,9.0,common,3'-to-5' exoribonuclease specific for small oligoribonucleotides
+COG3022,9.0,common,Peroxide stress protein YaaA
+COG0671,9.0,common,PAP2 superfamily
+COG0561,9.0,common,Sucrose-6F-phosphate phosphohydrolase
+COG1923,9.0,common,"RNA chaperone that binds small regulatory RNA (sRNAs) and mRNAs to facilitate mRNA translational regulation in response to envelope stress, environmental stress and changes in metabolite concentrations. Also binds with high specificity to tRNAs"
+COG2262,9.0,common,GTPase that associates with the 50S ribosomal subunit and may have a role during protein synthesis or ribosome biogenesis
+COG0330,9.0,common,HflC and HflK could encode or regulate a protease
+COG0104,9.0,common,Plays an important role in the de novo pathway of purine nucleotide biosynthesis. Catalyzes the first committed step in the biosynthesis of AMP from IMP
+COG5002,9.0,common,"HAMP (Histidine kinases, Adenylyl cyclases, Methyl binding proteins, Phosphatases) domain"
+COG0792,9.0,common,nuclease activity
+COG0593,9.0,common,it binds specifically double-stranded DNA at a 9 bp consensus (dnaA box) 5'-TTATC CA A CA A-3'. DnaA binds to ATP and to acidic phospholipids
+COG2146,9.0,common,Rieske [2Fe-2S] domain
+COG0546,9.0,common,Phosphoglycolate phosphatase
+COG4589,9.0,common,Phosphatidate cytidylyltransferase
+COG0473,9.0,common,Catalyzes the oxidation of 3-carboxy-2-hydroxy-4- methylpentanoate (3-isopropylmalate) to 3-carboxy-4-methyl-2- oxopentanoate. The product decarboxylates to 4-methyl-2 oxopentanoate
+COG2807,9.0,common,MFS transporter
+COG0756,9.0,common,"This enzyme is involved in nucleotide metabolism it produces dUMP, the immediate precursor of thymidine nucleotides and it decreases the intracellular concentration of dUTP so that uracil cannot be incorporated into DNA"
+COG0614,9.0,common,"abc-type fe3 -hydroxamate transport system, periplasmic component"
+COG1280,9.0,common,LysE type translocator
+2C1VH,9.0,common,3-deoxy-D-manno-oct-2-ulosonic acid (Kdo) hydroxylase
+COG2377,9.0,common,"Catalyzes the specific phosphorylation of 1,6-anhydro-N- acetylmuramic acid (anhMurNAc) with the simultaneous cleavage of the 1,6-anhydro ring, generating MurNAc-6-P. Is required for the utilization of anhMurNAc either imported from the medium or derived from its own cell wall murein, and thus plays a role in cell wall recycling"
+COG4108,9.0,common,"Increases the formation of ribosomal termination complexes and stimulates activities of RF-1 and RF-2. It binds guanine nucleotides and has strong preference for UGA stop codons. It may interact directly with the ribosome. The stimulation of RF- 1 and RF-2 is significantly reduced by GTP and GDP, but not by GMP"
+COG0589,9.0,common,Universal stress protein family
+COG0841,9.0,common,Efflux pump membrane transporter
+COG1846,9.0,common,DNA-binding transcription factor activity
+COG2386,9.0,common,Required for the export of heme to the periplasm for the biogenesis of c-type cytochromes
+COG4133,9.0,common,"once thought to export heme, this seems not to be the case, but its exact role is uncertain. Responsible for energy coupling to the transport system"
+COG0526,9.0,common,Thiol disulfide interchange protein
+COG2332,9.0,common,Heme chaperone required for the biogenesis of c-type cytochromes. Transiently binds heme delivered by CcmC and transfers the heme to apo-cytochromes in a process facilitated by CcmF and CcmH
+COG0755,9.0,common,Required for the export of heme to the periplasm for the biogenesis of c-type cytochromes
+COG0609,9.0,common,FecCD transport family
+COG0621,9.0,common,"Catalyzes the methylthiolation of N6- (dimethylallyl)adenosine (i(6)A), leading to the formation of 2- methylthio-N6-(dimethylallyl)adenosine (ms(2)i(6)A) at position 37 in tRNAs that read codons beginning with uridine"
+COG0260,9.0,common,Presumably involved in the processing and regular turnover of intracellular proteins. Catalyzes the removal of unsubstituted N-terminal amino acids from various peptides
+COG1671,9.0,common,Belongs to the UPF0178 family
+COG0695,9.0,common,Glutaredoxin
+COG1295,9.0,common,UPF0761 membrane protein
+COG2983,9.0,common,Putative zinc- or iron-chelating domain
+COG1289,9.0,common,Fusaric acid resistance protein-like
+COG0812,9.0,common,Cell wall formation
+COG2854,9.0,common,ABC-type transport system involved in resistance to organic solvents auxiliary component
+COG1686,9.0,common,Belongs to the peptidase S11 family
+COG0743,9.0,common,Catalyzes the NADP-dependent rearrangement and reduction of 1-deoxy-D-xylulose-5-phosphate (DXP) to 2-C-methyl-D-erythritol 4-phosphate (MEP)
+COG0020,9.0,common,"Catalyzes the sequential condensation of isopentenyl diphosphate (IPP) with (2E,6E)-farnesyl diphosphate (E,E-FPP) to yield (2Z,6Z,10Z,14Z,18Z,22Z,26Z,30Z,34E,38E)-undecaprenyl diphosphate (di-trans,octa-cis-UPP). UPP is the precursor of glycosyl carrier lipid in the biosynthesis of bacterial cell wall polysaccharide components such as peptidoglycan and lipopolysaccharide"
+COG0233,9.0,common,Responsible for the release of ribosomes from messenger RNA at the termination of protein biosynthesis. May increase the efficiency of translation by recycling ribosomes from one round of translation to another
+COG0528,9.0,common,Catalyzes the reversible phosphorylation of UMP to UDP
+COG0565,9.0,common,Catalyzes the formation of 2'O-methylated cytidine (Cm32) or 2'O-methylated uridine (Um32) at position 32 in tRNA
+COG1045,9.0,common,Bacterial transferase hexapeptide (six repeats)
+COG1196,9.0,common,nuclear chromosome segregation
+COG1959,9.0,common,transcriptional regulator
+COG0586,9.0,common,LssY C-terminus
+COG1136,9.0,common,Part of the ABC transporter complex LolCDE involved in the translocation of
+COG4591,9.0,common,Lipoprotein releasing system transmembrane protein
+COG1386,9.0,common,Participates in chromosomal partition during cell division. May act via the formation of a condensin-like complex containing Smc and ScpA that pull DNA away from mid-cell into both cell halves
+COG0162,9.0,common,Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr)
+COG0172,9.0,common,"Catalyzes the attachment of serine to tRNA(Ser). Is also able to aminoacylate tRNA(Sec) with serine, to form the misacylated tRNA L-seryl-tRNA(Sec), which will be further converted into selenocysteinyl-tRNA(Sec)"
+COG0143,9.0,common,Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation
+COG0245,9.0,common,"Involved in the biosynthesis of isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP), two major building blocks of isoprenoid compounds. Catalyzes the conversion of 4- diphosphocytidyl-2-C-methyl-D-erythritol 2-phosphate (CDP-ME2P) to 2-C-methyl-D-erythritol 2,4-cyclodiphosphate (ME-CPP) with a corresponding release of cytidine 5-monophosphate (CMP)"
+COG1211,9.0,common,Catalyzes the formation of 4-diphosphocytidyl-2-C- methyl-D-erythritol from CTP and 2-C-methyl-D-erythritol 4- phosphate (MEP)
+COG0577,9.0,common,"Part of the tripartite efflux system MacAB-TolC. MacB is a non-canonical ABC transporter that contains transmembrane domains (TMD), which form a pore in the inner membrane, and an ATP-binding domain (NBD), which is responsible for energy generation. Confers resistance against macrolides"
+COG4775,9.0,common,"Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane"
+COG0616,9.0,common,Peptidase family S49 N-terminal
+COG0606,9.0,common,"Among the AAA ATPases, the YifB protease family belongs to the Helix 2 insert clade"
+COG1611,9.0,common,Possible lysine decarboxylase
+COG0471,9.0,common,Sodium:sulfate symporter transmembrane region
+COG0772,9.0,common,Peptidoglycan polymerase that is essential for cell wall elongation
+COG0768,9.0,common,Catalyzes cross-linking of the peptidoglycan cell wall
+COG0002,9.0,common,Catalyzes the NADPH-dependent reduction of N-acetyl-5- glutamyl phosphate to yield N-acetyl-L-glutamate 5-semialdehyde
+COG0658,9.0,common,DNA internalization-related competence protein ComEC Rec2
+COG0348,9.0,common,"IG-like fold at C-terminal of FixG, putative oxidoreductase"
+COG5456,9.0,common,YtkA-like
+COG3197,9.0,common,Cytochrome oxidase maturation protein
+COG0125,9.0,common,Phosphorylation of dTMP to form dTDP in both de novo and salvage pathways of dTTP synthesis
+COG1559,9.0,common,Functions as a peptidoglycan terminase that cleaves nascent peptidoglycan strands endolytically to terminate their elongation
+COG0236,9.0,common,Carrier of the growing fatty acid chain in fatty acid biosynthesis
+COG3071,9.0,common,HemY protein
+COG1587,9.0,common,enzyme of heme biosynthesis
+COG0181,9.0,common,Tetrapolymerization of the monopyrrole PBG into the hydroxymethylbilane pre-uroporphyrinogen in several discrete steps
+COG0283,9.0,common,Belongs to the cytidylate kinase family. Type 1 subfamily
+COG0539,9.0,common,thus facilitating recognition of the initiation point. It is needed to translate mRNA with a short Shine-Dalgarno (SD) purine-rich sequence
+COG1200,9.0,common,Critical role in recombination and DNA repair. Helps process Holliday junction intermediates to mature products by catalyzing branch migration. Has a DNA unwinding activity characteristic of a DNA helicase with a 3'- to 5'- polarity. Unwinds branched duplex DNA (Y-DNA)
+COG0266,9.0,common,"Involved in base excision repair of DNA damaged by oxidation or by mutagenic agents. Acts as DNA glycosylase that recognizes and removes damaged bases. Has a preference for oxidized purines, such as 7,8-dihydro-8-oxoguanine (8-oxoG). Has AP (apurinic apyrimidinic) lyase activity and introduces nicks in the DNA strand. Cleaves the DNA backbone by beta-delta elimination to generate a single-strand break at the site of the removed base with both 3'- and 5'-phosphates"
+COG3122,9.0,common,Uncharacterized protein conserved in bacteria (DUF2058)
+COG0111,9.0,common,Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family
+COG0834,9.0,common,ABC-type amino acid transport signal transduction systems periplasmic component domain
+COG0538,9.0,common,Isocitrate/isopropylmalate dehydrogenase
+COG0130,9.0,common,Responsible for synthesis of pseudouridine from uracil- 55 in the psi GC loop of transfer RNAs
+COG0858,9.0,common,One of several proteins that assist in the late maturation steps of the functional core of the 30S ribosomal subunit. Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Required for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA
+COG0532,9.0,common,One of the essential components for the initiation of protein synthesis. Protects formylmethionyl-tRNA from spontaneous hydrolysis and promotes its binding to the 30S ribosomal subunits. Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex
+COG0008,9.0,common,glutaminyl-tRNA synthetase
+COG4215,9.0,common,Binding-protein-dependent transport system inner membrane component
+COG4160,9.0,common,Binding-protein-dependent transport system inner membrane component
+COG0358,9.0,common,RNA polymerase that catalyzes the synthesis of short RNA molecules used as primers for DNA polymerase during DNA replication
+COG0147,9.0,common,"Part of a heterotetrameric complex that catalyzes the two-step biosynthesis of anthranilate, an intermediate in the biosynthesis of L-tryptophan. In the first step, the glutamine- binding beta subunit (TrpG) of anthranilate synthase (AS) provides the glutamine amidotransferase activity which generates ammonia as a substrate that, along with chorismate, is used in the second step, catalyzed by the large alpha subunit of AS (TrpE) to produce anthranilate. In the absence of TrpG, TrpE can synthesize anthranilate directly from chorismate and high concentrations of ammonia"
+COG0670,9.0,common,Inhibitor of apoptosis-promoting Bax1
+COG0770,9.0,common,"Involved in cell wall formation. Catalyzes the final step in the synthesis of UDP-N-acetylmuramoyl-pentapeptide, the precursor of murein"
+COG0223,9.0,common,Attaches a formyl group to the free amino group of methionyl-tRNA(fMet). The formyl group appears to play a dual role in the initiator identity of N-formylmethionyl-tRNA by promoting its recognition by IF2 and preventing the misappropriation of this tRNA by the elongation apparatus
+COG0126,9.0,common,Belongs to the phosphoglycerate kinase family
+COG0687,9.0,common,Required for the activity of the bacterial periplasmic transport system of putrescine
+COG0661,9.0,common,Is probably a protein kinase regulator of UbiI activity which is involved in aerobic coenzyme Q (ubiquinone) biosynthesis
+COG0262,9.0,common,"Key enzyme in folate metabolism. Catalyzes an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis"
+COG1573,9.0,common,deaminated base DNA N-glycosylase activity
+COG1589,9.0,common,"Essential cell division protein. May link together the upstream cell division proteins, which are predominantly cytoplasmic, with the downstream cell division proteins, which are predominantly periplasmic. May control correct divisome assembly"
+COG1181,9.0,common,Belongs to the D-alanine--D-alanine ligase family
+COG0773,9.0,common,Belongs to the MurCDEF family
+COG0707,9.0,common,Cell wall formation. Catalyzes the transfer of a GlcNAc subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc- (pentapeptide)GlcNAc (lipid intermediate II)
+COG0771,9.0,common,Cell wall formation. Catalyzes the addition of glutamate to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanine (UMA)
+COG2194,9.0,common,membrane
+COG1932,9.0,common,Catalyzes the reversible conversion of 3- phosphohydroxypyruvate to phosphoserine and of 3-hydroxy-2-oxo-4- phosphonooxybutanoate to phosphohydroxythreonine
+COG0740,9.0,common,Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins
+COG1219,9.0,common,ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP
+COG0847,9.0,common,"Trims short 3' overhangs of a variety of RNA species, leaving a one or two nucleotide 3' overhang. Responsible for the end-turnover of tRNA specifically removes the terminal AMP residue from uncharged tRNA (tRNA-C-C-A). Also appears to be involved in tRNA biosynthesis"
+COG2918,9.0,common,Glutamate-cysteine ligase
+COG0861,9.0,common,membrane protein terc
+COG2252,9.0,common,permease
+COG0796,9.0,common,Asp/Glu/Hydantoin racemase
+COG0778,9.0,common,coenzyme F420-1:gamma-L-glutamate ligase activity
+COG4232,9.0,common,Thiol disulfide Interchange Protein
+COG0766,9.0,common,Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine
+COG1053,9.0,common,Belongs to the FAD-dependent oxidoreductase 2 family. FRD SDH subfamily
+29KGK,9.0,common,-
+COG0664,9.0,common,COG0664 cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+COG0465,9.0,common,"Acts as a processive, ATP-dependent zinc metallopeptidase for both cytoplasmic and membrane proteins. Plays a role in the quality control of integral membrane proteins"
+COG0340,9.0,common,"Acts both as a biotin-- acetyl-CoA-carboxylase ligase and a biotin-operon repressor. In the presence of ATP, BirA activates biotin to form the BirA-biotinyl-5'-adenylate (BirA-bio- 5'-AMP or holoBirA) complex. HoloBirA can either transfer the biotinyl moiety to the biotin carboxyl carrier protein (BCCP) subunit of acetyl-CoA carboxylase, or bind to the biotin operator site and inhibit transcription of the operon"
+COG1448,9.0,common,aminotransferase
+COG0855,9.0,common,Catalyzes the reversible transfer of the terminal phosphate of ATP to form a long-chain polyphosphate (polyP)
+COG1651,9.0,common,Thiol disulfide interchange protein
+COG0682,9.0,common,Transfers the N-acyl diglyceride group on what will become the N-terminal cysteine of membrane lipoproteins
+COG0207,9.0,common,"Catalyzes the reductive methylation of 2'-deoxyuridine- 5'-monophosphate (dUMP) to 2'-deoxythymidine-5'-monophosphate (dTMP) while utilizing 5,10-methylenetetrahydrofolate (mTHF) as the methyl donor and reductant in the reaction, yielding dihydrofolate (DHF) as a by-product. This enzymatic reaction provides an intracellular de novo source of dTMP, an essential precursor for DNA biosynthesis"
+COG0328,9.0,common,Endonuclease that specifically degrades the RNA of RNA- DNA hybrids
+COG3842,9.0,common,Part of the ABC transporter complex PotABCD involved in spermidine putrescine import. Responsible for energy coupling to the transport system
+COG1176,9.0,common,"ABC-type spermidine putrescine transport system, permease component I"
+COG1177,9.0,common,Spermidine putrescine ABC transporter permease
+COG3155,9.0,common,"Displays glyoxalase activity, catalyzing the conversion of glyoxal to glycolate"
+COG0860,9.0,common,N-acetylmuramoyl-L-alanine amidase
+COG1108,9.0,common,ABC 3 transport family
+COG1121,9.0,common,(ABC) transporter
+COG0639,9.0,common,"Hydrolyzes diadenosine 5',5'''-P1,P4-tetraphosphate to yield ADP"
+COG0218,9.0,common,Necessary for normal cell division and for the maintenance of normal septation
+COG1737,9.0,common,"Helix-turn-helix domain, rpiR family"
+COG0101,9.0,common,"Formation of pseudouridine at positions 38, 39 and 40 in the anticodon stem and loop of transfer RNAs"
+COG0180,9.0,common,"Catalyzes a two-step reaction, first charging a tryptophan molecule by linking its carboxyl group to the alpha-phosphate of ATP, followed by transfer of the aminoacyl-adenylate to its tRNA"
+COG1354,9.0,common,Participates in chromosomal partition during cell division. May act via the formation of a condensin-like complex containing Smc and ScpB that pull DNA away from mid-cell into both cell halves
+COG0084,9.0,common,"Hydrolase, TatD family"
+COG0282,9.0,common,Catalyzes the formation of acetyl phosphate from acetate and ATP. Can also catalyze the reverse reaction
+COG0219,9.0,common,Methylates the ribose at the nucleotide 34 wobble position in the two leucyl isoacceptors tRNA(Leu)(CmAA) and tRNA(Leu)(cmnm5UmAA). Catalyzes the methyl transfer from S- adenosyl-L-methionine to the 2'-OH of the wobble nucleotide
+COG0504,9.0,common,Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen. Regulates intracellular CTP levels through interactions with the four ribonucleotide triphosphates
+COG1364,9.0,common,ArgJ family
+COG0484,9.0,common,"ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding. Also involved, together with DnaK and GrpE, in the DNA replication of plasmids through activation of initiation proteins"
+COG0128,9.0,common,Catalyzes the transfer of the enolpyruvyl moiety of phosphoenolpyruvate (PEP) to the 5-hydroxyl of shikimate-3- phosphate (S3P) to produce enolpyruvyl shikimate-3-phosphate and inorganic phosphate
+COG2165,9.0,common,"Type II secretion system (T2SS), protein G"
+COG0780,9.0,common,Catalyzes the NADPH-dependent reduction of 7-cyano-7- deazaguanine (preQ0) to 7-aminomethyl-7-deazaguanine (preQ1)
+COG0823,9.0,common,Involved in the TonB-independent uptake of proteins
+COG0634,9.0,common,"Catalyzes the salvage synthesis of inosine-5'-monophosphate (IMP) and guanosine-5'-monophosphate (GMP) from the purine bases hypoxanthine and guanine, respectively"
+COG0373,9.0,common,Catalyzes the NADPH-dependent reduction of glutamyl- tRNA(Glu) to glutamate 1-semialdehyde (GSA)
+2ATQ6,9.0,common,Outer membrane lipoprotein Slp family
+COG0506,9.0,common,Oxidizes proline to glutamate for use as a carbon and nitrogen source
+COG5000,9.0,common,"HAMP (Histidine kinases, Adenylyl cyclases, Methyl binding proteins, Phosphatases) domain"
+COG0303,9.0,common,molybdopterin biosynthesis
+COG0357,9.0,common,Specifically methylates the N7 position of guanine in position 527 of 16S rRNA
+COG1674,9.0,common,Cell division protein ftsk
+COG0341,9.0,common,Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA
+COG1862,9.0,common,Preprotein translocase subunit YajC
+COG0021,9.0,common,"Catalyzes the transfer of a two-carbon ketol group from a ketose donor to an aldose acceptor, via a covalent intermediate with the cofactor thiamine pyrophosphate"
+COG2989,9.0,common,"L,D-transpeptidase catalytic domain"
+COG1897,9.0,common,"Transfers an acetyl group from acetyl-CoA to L- homoserine, forming acetyl-L-homoserine"
+COG0420,9.0,common,SbcCD cleaves DNA hairpin structures. These structures can inhibit DNA replication and are intermediates in certain DNA recombination reactions. The complex acts as a 3'- 5' double strand exonuclease that can open hairpins. It also has a 5' single-strand endonuclease activity
+COG0013,9.0,common,Catalyzes the attachment of alanine to tRNA(Ala) in a two-step reaction alanine is first activated by ATP to form Ala- AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged Ser-tRNA(Ala) and Gly-tRNA(Ala) via its editing domain
+COG2355,9.0,common,Membrane dipeptidase (Peptidase family M19)
+COG0733,9.0,common,Sodium:neurotransmitter symporter family
+COG1115,9.0,common,Sodium alanine symporter
+COG0452,9.0,common,"Catalyzes two steps in the biosynthesis of coenzyme A. In the first step cysteine is conjugated to 4'-phosphopantothenate to form 4-phosphopantothenoylcysteine, in the latter compound is decarboxylated to form 4'-phosphopantotheine"
+COG3108,9.0,common,Bacterial protein of unknown function (DUF882)
+COG0305,9.0,common,"it exhibits DNA-dependent ATPase activity and contains distinct active sites for ATP binding, DNA binding, and interaction with DnaC protein, primase, and other prepriming proteins"
+COG2096,9.0,common,adenosyltransferase
+COG0382,9.0,common,"Catalyzes the prenylation of para-hydroxybenzoate (PHB) with an all-trans polyprenyl group. Mediates the second step in the final reaction sequence of ubiquinone-8 (UQ-8) biosynthesis, which is the condensation of the polyisoprenoid side chain with PHB, generating the first membrane-bound Q intermediate 3- octaprenyl-4-hydroxybenzoate"
+COG0316,9.0,common,Iron-sulfur cluster insertion protein ErpA
+COG0086,9.0,common,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+COG0517,8.0,common,Arabinose 5-phosphate isomerase
+COG0497,8.0,common,May be involved in recombinational repair of damaged DNA
+COG0569,8.0,common,TrkA-N domain
+COG1853,8.0,common,Flavin reductase like domain
+COG2981,8.0,common,Etoposide-induced protein 2.4 (EI24)
+COG0534,8.0,common,Multidrug efflux pump
+COG2391,8.0,common,Sulphur transport
+COG0503,8.0,common,"Catalyzes a salvage reaction resulting in the formation of AMP, that is energically less costly than de novo synthesis"
+COG0279,8.0,common,SIS domain
+COG2823,8.0,common,BON domain
+COG0306,8.0,common,phosphate transporter
+COG0268,8.0,common,Binds directly to 16S ribosomal RNA
+COG2812,8.0,common,"DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity"
+COG0718,8.0,common,"Binds to DNA and alters its conformation. May be involved in regulation of gene expression, nucleoid organization and DNA protection"
+COG0353,8.0,common,May play a role in DNA repair. It seems to be involved in an RecBC-independent recombinational process of DNA repair. It may act with RecF and RecO
+COG1858,8.0,common,cytochrome c peroxidase
+COG0053,8.0,common,Dimerisation domain of Zinc Transporter
+COG3115,8.0,common,cell septum assembly
+COG0205,8.0,common,"Catalyzes the phosphorylation of D-fructose 6-phosphate, the first committing step of glycolysis. Uses inorganic phosphate (PPi) as phosphoryl donor instead of ATP like common ATP-dependent phosphofructokinases (ATP-PFKs), which renders the reaction reversible, and can thus function both in glycolysis and gluconeogenesis. Consistently, PPi-PFK can replace the enzymes of both the forward (ATP-PFK) and reverse (fructose-bisphosphatase (FBPase)) reactions"
+COG3637,8.0,common,Outer membrane protein beta-barrel domain
+COG1126,8.0,common,"AAA domain, putative AbiEii toxin, Type IV TA system"
+COG3468,8.0,common,cell adhesion
+COG1154,8.0,common,Catalyzes the acyloin condensation reaction between C atoms 2 and 3 of pyruvate and glyceraldehyde 3-phosphate to yield 1-deoxy-D-xylulose-5-phosphate (DXP)
+COG0142,8.0,common,Belongs to the FPP GGPP synthase family
+COG1722,8.0,common,exodeoxyribonuclease VII activity
+COG3264,8.0,common,Small-conductance mechanosensitive channel
+COG2864,8.0,common,Prokaryotic cytochrome b561
+COG3058,8.0,common,Necessary for formate dehydrogenase activity
+COG2141,8.0,common,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases"
+COG1521,8.0,common,"Catalyzes the phosphorylation of pantothenate (Pan), the first step in CoA biosynthesis"
+COG1663,8.0,common,"Transfers the gamma-phosphate of ATP to the 4'-position of a tetraacyldisaccharide 1-phosphate intermediate (termed DS-1- P) to form tetraacyldisaccharide 1,4'-bis-phosphate (lipid IVA)"
+COG0557,8.0,common,3'-5' exoribonuclease that releases 5'-nucleoside monophosphates and is involved in maturation of structured RNAs
+COG0352,8.0,common,Thiamine monophosphate synthase
+COG0476,8.0,common,"ATP-dependent adenylate transferase, transfers adenyl moiety to the MoeD subunit of molybdopterin synthase"
+COG2303,8.0,common,PFAM GMC oxidoreductase
+COG0666,8.0,common,Ankyrin repeat
+COG1032,8.0,common,UPF0313 protein
+COG0117,8.0,common,"Converts 2,5-diamino-6-(ribosylamino)-4(3h)-pyrimidinone 5'-phosphate into 5-amino-6-(ribosylamino)-2,4(1h,3h)- pyrimidinedione 5'-phosphate"
+2DI8K,8.0,common,Glycine zipper
+COG0688,8.0,common,Catalyzes the formation of phosphatidylethanolamine (PtdEtn) from phosphatidylserine (PtdSer)
+COG1212,8.0,common,Activates KDO (a required 8-carbon sugar) for incorporation into bacterial lipopolysaccharide in Gram-negative bacteria
+COG2969,8.0,common,stringent starvation protein b
+COG1026,8.0,common,Peptidase M16C associated
+COG0481,8.0,common,"Required for accurate and efficient protein synthesis under certain stress conditions. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Back- translocation proceeds from a post-translocation (POST) complex to a pre-translocation (PRE) complex, thus giving elongation factor G a second chance to translocate the tRNAs correctly. Binds to ribosomes in a GTP-dependent manner"
+COG1104,8.0,common,Aminotransferase class-V
+COG2433,8.0,common,-
+COG3247,8.0,common,response to pH
+COG0640,8.0,common,transcriptional regulators
+COG0072,8.0,common,Belongs to the phenylalanyl-tRNA synthetase beta subunit family. Type 1 subfamily
+COG0292,8.0,common,Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit
+COG0291,8.0,common,Belongs to the bacterial ribosomal protein bL35 family
+COG0441,8.0,common,Catalyzes the attachment of threonine to tRNA(Thr) in a two-step reaction L-threonine is first activated by ATP to form Thr-AMP and then transferred to the acceptor end of tRNA(Thr)
+COG0042,8.0,common,"Catalyzes the synthesis of 5,6-dihydrouridine (D), a modified base found in the D-loop of most tRNAs, via the reduction of the C5-C6 double bond in target uridines. Specifically modifies U20 and U20a in tRNAs"
+COG1823,8.0,common,Sodium:dicarboxylate symporter family
+COG1349,8.0,common,DeoR C terminal sensor domain
+COG1047,8.0,common,Peptidyl-prolyl cis-trans
+COG0120,8.0,common,Catalyzes the reversible conversion of ribose-5- phosphate to ribulose 5-phosphate
+COG3117,8.0,common,lipopolysaccharide transmembrane transporter activity
+COG2374,8.0,common,Endonuclease/Exonuclease/phosphatase family
+COG1186,8.0,common,Peptide chain release factor 2 directs the termination of translation in response to the peptide chain termination codons UGA and UAA
+COG3118,8.0,common,Belongs to the thioredoxin family
+COG3560,8.0,common,oxidoreductase related to nitroreductase
+COG0195,8.0,common,Participates in both transcription termination and antitermination
+COG2986,8.0,common,Histidine ammonia-lyase
+COG2850,8.0,common,transcriptional regulator
+COG0052,8.0,common,Belongs to the universal ribosomal protein uS2 family
+COG0264,8.0,common,Associates with the EF-Tu.GDP complex and induces the exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF- Tu.GTP complex up to the GTP hydrolysis stage on the ribosome
+COG1314,8.0,common,Preprotein translocase subunit SecG
+COG0149,8.0,common,Involved in the gluconeogenesis. Catalyzes stereospecifically the conversion of dihydroxyacetone phosphate (DHAP) to D-glyceraldehyde-3-phosphate (G3P)
+COG1077,8.0,common,Rod shape-determining protein
+COG1792,8.0,common,Involved in formation and maintenance of cell shape
+COG0749,8.0,common,"In addition to polymerase activity, this DNA polymerase exhibits 5'-3' exonuclease activity"
+COG1426,8.0,common,Helix-turn-helix domain
+COG0679,8.0,common,"Transporter, auxin efflux carrier (AEC) family protein"
+COG0326,8.0,common,Hsp90 protein
+COG3063,8.0,common,Type IV pilus biogenesis stability protein PilW
+COG4796,8.0,common,"Type II secretory pathway, component HofQ"
+COG0691,8.0,common,"Required for rescue of stalled ribosomes mediated by trans-translation. Binds to transfer-messenger RNA (tmRNA), required for stable association of tmRNA with ribosomes. tmRNA and SmpB together mimic tRNA shape, replacing the anticodon stem-loop with SmpB. tmRNA is encoded by the ssrA gene"
+COG1052,8.0,common,Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family
+COG3094,8.0,common,"Invasion gene expression up-regulator, SirB"
+COG2915,8.0,common,High frequency lysogenization protein HflD homolog
+COG1509,8.0,common,"lysine 2,3-aminomutase"
+COG0324,8.0,common,"Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A)"
+2ANY4,8.0,common,NMT1-like family
+COG0271,8.0,common,Belongs to the BolA IbaG family
+COG2917,8.0,common,Intracellular septation protein A
+COG0331,8.0,common,malonyl CoA-acyl carrier protein transacylase
+COG0332,8.0,common,Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP. Catalyzes the first condensation reaction which initiates fatty acid synthesis and may therefore play a role in governing the total rate of fatty acid production. Possesses both acetoacetyl-ACP synthase and acetyl transacylase activities. Its substrate specificity determines the biosynthesis of branched- chain and or straight-chain of fatty acids
+COG0725,8.0,common,ABC-type molybdate transport system periplasmic component
+COG2609,8.0,common,"Component of the pyruvate dehydrogenase (PDH) complex, that catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2)"
+COG1135,8.0,common,Part of the ABC transporter complex MetNIQ involved in methionine import. Responsible for energy coupling to the transport system
+COG3278,8.0,common,Belongs to the heme-copper respiratory oxidase family
+COG2204,8.0,common,Sigma-54 interaction domain
+COG0806,8.0,common,"An accessory protein needed during the final step in the assembly of 30S ribosomal subunit, possibly for assembly of the head region. Probably interacts with S19. Essential for efficient processing of 16S rRNA. May be needed both before and after RbfA during the maturation of 16S rRNA. It has affinity for free ribosomal 30S subunits but not for 70S ribosomes"
+COG0228,8.0,common,Belongs to the bacterial ribosomal protein bS16 family
+COG0019,8.0,common,Specifically catalyzes the decarboxylation of meso- diaminopimelate (meso-DAP) to L-lysine
+COG2804,8.0,common,"Type II secretory pathway, ATPase PulE Tfp pilus assembly pathway, ATPase PilB"
+COG3064,8.0,common,Membrane
+COG0824,8.0,common,Acyl-CoA thioesterase
+COG0468,8.0,common,"Can catalyze the hydrolysis of ATP in the presence of single-stranded DNA, the ATP-dependent uptake of single-stranded DNA by duplex DNA, and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage"
+COG4067,8.0,common,Putative ATP-dependant zinc protease
+COG1114,8.0,common,Component of the transport system for branched-chain amino acids
+COG2980,8.0,common,"Together with LptD, is involved in the assembly of lipopolysaccharide (LPS) at the surface of the outer membrane. Required for the proper assembly of LptD. Binds LPS and may serve as the LPS recognition site at the outer membrane"
+COG1469,8.0,common,"Converts GTP to 7,8-dihydroneopterin triphosphate"
+COG3950,8.0,common,AAA ATPase domain
+2ATYF,8.0,common,Invasion associated locus B (IalB) protein
+COG0194,8.0,common,"Essential for recycling GMP and indirectly, cGMP"
+COG1758,8.0,common,Promotes RNA polymerase assembly. Latches the N- and C- terminal regions of the beta' subunit thereby facilitating its interaction with the beta and alpha subunits
+COG2896,8.0,common,"Catalyzes the cyclization of GTP to (8S)-3',8-cyclo-7,8- dihydroguanosine 5'-triphosphate"
+COG4973,8.0,common,Belongs to the 'phage' integrase family. XerC subfamily
+COG3245,8.0,common,cytochrome
+COG0576,8.0,common,"Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ"
+COG0335,8.0,common,This protein is located at the 30S-50S ribosomal subunit interface and may play a role in the structure and function of the aminoacyl-tRNA binding site
+COG0501,8.0,common,Belongs to the peptidase M48B family
+COG0229,8.0,common,This stereospecific enzymes reduces the R isomer of methionine sulfoxide while MsrA reduces the S form
+COG0025,8.0,common,Na H antiporter
+COG0803,8.0,common,Zinc-uptake complex component A periplasmic
+COG1385,8.0,common,Specifically methylates the N3 position of the uracil ring of uridine 1498 (m3U1498) in 16S rRNA. Acts on the fully assembled 30S ribosomal subunit
+COG2853,8.0,common,lipoprotein
+COG1131,8.0,common,ABC transporter
+COG0285,8.0,common,Belongs to the folylpolyglutamate synthase family
+COG0249,8.0,common,DNA mismatch repair protein
+COG0208,8.0,common,"Ribonucleotide reductase, small chain"
+COG1167,8.0,common,Transcriptional regulator
+COG1454,8.0,common,alcohol dehydrogenase
+COG3090,8.0,common,"Tripartite ATP-independent periplasmic transporters, DctQ component"
+COG1638,8.0,common,"Bacterial extracellular solute-binding protein, family 7"
+COG0527,8.0,common,homoserine dehydrogenase
+COG0729,8.0,common,membrane
+COG0196,8.0,common,Belongs to the ribF family
+COG4808,8.0,common,Protein of unknown function (DUF1307)
+COG3221,8.0,common,"ABC transporter, phosphonate, periplasmic substrate-binding protein"
+COG2836,8.0,common,Cytochrome C biogenesis protein transmembrane region
+COG0838,8.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient"
+COG0377,8.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient"
+COG0852,8.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient"
+COG0649,8.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient"
+COG1905,8.0,common,NADH dehydrogenase
+COG1894,8.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain"
+COG1741,8.0,common,Belongs to the pirin family
+COG0006,8.0,common,Xaa-Pro aminopeptidase
+COG3111,8.0,common,PFAM conserved
+COG2264,8.0,common,Methylates ribosomal protein L11
+COG1444,8.0,common,GNAT acetyltransferase 2
+COG2837,8.0,common,Dyp-type peroxidase family
+COG0400,8.0,common,Carboxylesterase
+COG0795,8.0,common,overlaps another CDS with the same product name
+COG0343,8.0,common,"Catalyzes the base-exchange of a guanine (G) residue with the queuine precursor 7-aminomethyl-7-deazaguanine (PreQ1) at position 34 (anticodon wobble position) in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr). Catalysis occurs through a double-displacement mechanism. The nucleophile active site attacks the C1' of nucleotide 34 to detach the guanine base from the RNA, forming a covalent enzyme-RNA intermediate. The proton acceptor active site deprotonates the incoming PreQ1, allowing a nucleophilic attack on the C1' of the ribose to form the product. After dissociation, two additional enzymatic reactions on the tRNA convert PreQ1 to queuine (Q), resulting in the hypermodified nucleoside queuosine (7-(((4,5-cis-dihydroxy-2- cyclopenten-1-yl)amino)methyl)-7-deazaguanosine)"
+COG0168,8.0,common,Low-affinity potassium transport system. Interacts with Trk system potassium uptake protein TrkA
+COG3698,8.0,common,Phosphodiester glycosidase
+COG0483,8.0,common,Belongs to the inositol monophosphatase superfamily
+COG0313,8.0,common,Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA
+COG1495,8.0,common,Required for disulfide bond formation in some periplasmic proteins. Acts by oxidizing the DsbA protein
+COG0443,8.0,common,Heat shock 70 kDa protein
+COG0325,8.0,common,"Alanine racemase, N-terminal domain"
+COG2145,8.0,common,Hydroxyethylthiazole kinase family
+COG0349,8.0,common,Exonuclease involved in the 3' processing of various precursor tRNAs. Initiates hydrolysis at the 3'-terminus of an RNA molecule and releases 5'-mononucleotides
+COG4147,8.0,common,Belongs to the sodium solute symporter (SSF) (TC 2.A.21) family
+COG0204,8.0,common,Acyltransferase
+COG3323,8.0,common,protein conserved in bacteria
+COG0702,8.0,common,NAD(P)H-binding
+COG3133,8.0,common,Outer Membrane Lipoprotein
+COG1793,8.0,common,DNA ligase
+COG2103,8.0,common,SIS domain
+COG4235,8.0,common,cytochrome complex assembly
+COG3088,8.0,common,subunit of a heme lyase
+COG1138,8.0,common,Cytochrome C biogenesis
+COG3288,8.0,common,NADP transhydrogenase
+COG4125,8.0,common,Chlorhexidine efflux transporter
+COG1226,8.0,common,Potassium channel
+COG0762,8.0,common,YGGT family
+COG0775,8.0,common,Phosphorylase superfamily
+COG0041,8.0,common,Catalyzes the conversion of N5-carboxyaminoimidazole ribonucleotide (N5-CAIR) to 4-carboxy-5-aminoimidazole ribonucleotide (CAIR)
+COG2838,8.0,common,"NADP-specific, catalyzes the formation of 2-oxoglutarate from isocitrate or oxalosuccinate"
+COG1519,8.0,common,transferase
+COG4105,8.0,common,"Part of the outer membrane protein assembly complex, which is involved in assembly and insertion of beta-barrel proteins into the outer membrane"
+COG1496,8.0,common,Belongs to the multicopper oxidase YfiH RL5 family
+COG0659,8.0,common,Sulfate transporter
+COG0024,8.0,common,Methionine aminopeptidase
+COG3027,8.0,common,"Activator of cell division through the inhibition of FtsZ GTPase activity, therefore promoting FtsZ assembly into bundles of protofilaments necessary for the formation of the division Z ring. It is recruited early at mid-cell but it is not essential for cell division"
+COG3004,8.0,common,Na( ) H( ) antiporter that extrudes sodium in exchange for external protons
+COG1738,8.0,common,"Involved in the import of queuosine (Q) precursors, required for Q precursor salvage"
+COG0822,8.0,common,NifU-like N terminal domain
+COG2151,8.0,common,FeS assembly SUF system protein SufT
+COG0286,8.0,common,site-specific DNA-methyltransferase (adenine-specific) activity
+COG1538,8.0,common,Outer membrane efflux protein
+COG0791,8.0,common,COG0791 Cell wall-associated hydrolases (invasion-associated proteins)
+COG0519,8.0,common,GMP synthase C terminal domain
+COG0563,8.0,common,Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism
+2DQRI,8.0,common,-
+COG0750,8.0,common,zinc metalloprotease
+COG2960,8.0,common,long-chain fatty acid transporting porin activity
+COG1802,8.0,common,Transcriptional regulator
+COG0388,8.0,common,Acyltransferase
+COG0719,8.0,common,"abc transporter, permease"
+COG0148,8.0,common,Catalyzes the reversible conversion of 2- phosphoglycerate into phosphoenolpyruvate. It is essential for the degradation of carbohydrates via glycolysis
+COG0372,8.0,common,Belongs to the citrate synthase family
+COG0167,8.0,common,Catalyzes the conversion of dihydroorotate to orotate with quinone as electron acceptor
+COG0254,8.0,common,Ribosomal protein L31
+COG1158,8.0,common,"Facilitates transcription termination by a mechanism that involves Rho binding to the nascent RNA, activation of Rho's RNA-dependent ATPase activity, and release of the mRNA from the DNA template"
+COG1145,8.0,common,ferredoxin
+COG1309,8.0,common,"PFAM Transcriptional regulator, TetR-like, DNA-binding, bacterial archaeal"
+COG0151,8.0,common,Belongs to the GARS family
+COG1044,8.0,common,"Catalyzes the N-acylation of UDP-3-O-acylglucosamine using 3-hydroxyacyl-ACP as the acyl donor. Is involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell"
+COG2825,8.0,common,Outer membrane protein (OmpH-like)
+COG0193,8.0,common,The natural substrate for this enzyme may be peptidyl- tRNAs which drop off the ribosome during protein synthesis
+COG1960,8.0,common,acyl-CoA dehydrogenase
+COG1198,8.0,common,"Involved in the restart of stalled replication forks. Recognizes and binds the arrested nascent DNA chain at stalled replication forks. It can open the DNA duplex, via its helicase activity, and promote assembly of the primosome and loading of the major replicative helicase DnaB onto DNA"
+COG0623,8.0,common,Catalyzes a key regulatory step in fatty acid biosynthesis
+COG4123,8.0,common,Putative SAM-dependent methyltransferase
+COG4654,8.0,common,cytochrome
+COG1207,8.0,common,"Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain"
+COG1197,8.0,common,"Couples transcription and DNA repair by recognizing RNA polymerase (RNAP) stalled at DNA lesions. Mediates ATP-dependent release of RNAP and its truncated transcript from the DNA, and recruitment of nucleotide excision repair machinery to the damaged site"
+COG1335,8.0,common,Isochorismatase family
+COG2891,8.0,common,Involved in formation of the rod shape of the cell. May also contribute to regulation of formation of penicillin-binding proteins
+COG0859,8.0,common,lipopolysaccharide heptosyltransferase I
+COG0214,8.0,common,"Catalyzes the formation of pyridoxal 5'-phosphate from ribose 5-phosphate (RBP), glyceraldehyde 3-phosphate (G3P) and ammonia. The ammonia is provided by the PdxT subunit. Can also use ribulose 5-phosphate and dihydroxyacetone phosphate as substrates, resulting from enzyme-catalyzed isomerization of RBP and G3P, respectively"
+COG0129,8.0,common,Belongs to the IlvD Edd family
+COG0769,8.0,common,Catalyzes the addition of meso-diaminopimelic acid to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanyl-D-glutamate (UMAG) in the biosynthesis of bacterial cell-wall peptidoglycan
+COG4969,8.0,common,Pilin (bacterial filament)
+COG0470,8.0,common,the delta' subunit seems to interact with the gamma subunit to transfer the beta subunit on the DNA
+COG0668,8.0,common,Mechanosensitive ion channel
+COG0757,8.0,common,Catalyzes a trans-dehydration via an enolate intermediate
+COG0815,8.0,common,Carbon-nitrogen hydrolase
+COG1680,8.0,common,COG1680 Beta-lactamase class C and other penicillin binding proteins
+COG1146,8.0,common,Ferredoxins are iron-sulfur proteins that transfer electrons in a wide variety of metabolic reactions
+COG0524,8.0,common,"Catalyzes the phosphorylation of ribose at O-5 in a reaction requiring ATP and magnesium. The resulting D-ribose-5- phosphate can then be used either for sythesis of nucleotides, histidine, and tryptophan, or as a component of the pentose phosphate pathway"
+COG0119,8.0,common,Catalyzes the condensation of the acetyl group of acetyl-CoA with 3-methyl-2-oxobutanoate (2-oxoisovalerate) to form 3-carboxy-3-hydroxy-4-methylpentanoate (2-isopropylmalate)
+COG0192,8.0,common,"Catalyzes the formation of S-adenosylmethionine (AdoMet) from methionine and ATP. The overall synthetic reaction is composed of two sequential steps, AdoMet formation and the subsequent tripolyphosphate hydrolysis which occurs prior to release of AdoMet from the enzyme"
+COG0230,8.0,common,Belongs to the bacterial ribosomal protein bL34 family
+COG1194,8.0,common,glycosylase
+COG0788,8.0,common,Catalyzes the hydrolysis of 10-formyltetrahydrofolate (formyl-FH4) to formate and tetrahydrofolate (FH4)
+COG0115,8.0,common,Branched-chain amino acid aminotransferase 4-amino-4-deoxychorismate lyase
+COG1159,8.0,common,"An essential GTPase that binds both GDP and GTP, with rapid nucleotide exchange. Plays a role in 16S rRNA processing and 30S ribosomal subunit biogenesis and possibly also in cell cycle regulation and energy metabolism"
+COG1607,8.0,common,Thioesterase superfamily
+COG0210,8.0,common,Unwinds DNA duplexes with 3' to 5' polarity with respect to the bound strand and initiates unwinding most effectively when a single-stranded region is present
+COG0179,8.0,common,fumarylacetoacetate hydrolase
+COG1225,8.0,common,Peroxiredoxin
+COG0758,8.0,common,DNA processing protein DprA
+2AQF3,8.0,common,-
+COG1452,8.0,common,"Together with LptE, is involved in the assembly of lipopolysaccharide (LPS) at the surface of the outer membrane"
+COG0472,8.0,common,First step of the lipid cycle reactions in the biosynthesis of the cell wall peptidoglycan
+COG0039,8.0,common,Catalyzes the reversible oxidation of malate to oxaloacetate
+COG0276,8.0,common,Catalyzes the ferrous insertion into protoporphyrin IX
+COG0242,8.0,common,Removes the formyl group from the N-terminal Met of newly synthesized proteins. Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions
+COG0144,8.0,common,Specifically methylates the cytosine at position 967 (m5C967) of 16S rRNA
+COG0492,8.0,common,Belongs to the class-II pyridine nucleotide-disulfide oxidoreductase family
+COG3909,8.0,common,Cytochrome c signal peptide protein
+COG0608,8.0,common,Single-stranded-DNA-specific exonuclease
+COG0774,8.0,common,"Catalyzes the hydrolysis of UDP-3-O-myristoyl-N- acetylglucosamine to form UDP-3-O-myristoylglucosamine and acetate, the committed step in lipid A biosynthesis"
+COG0206,8.0,common,Essential cell division protein that forms a contractile ring structure (Z ring) at the future cell division site. The regulation of the ring assembly controls the timing and the location of cell division. One of the functions of the FtsZ ring is to recruit other cell division proteins to the septum to produce a new cell wall between the dividing cells. Binds GTP and shows GTPase activity
+COG0849,8.0,common,Cell division protein that is involved in the assembly of the Z ring. May serve as a membrane anchor for the Z ring
+COG2001,8.0,common,"MraZ protein, putative antitoxin-like"
+COG0308,8.0,common,Aminopeptidase N
+COG0816,8.0,common,Could be a nuclease involved in processing of the 5'-end of pre-16S rRNA
+COG3633,8.0,common,"Involved in the import of serine and threonine into the cell, with the concomitant import of sodium (symport system)"
+COG0479,8.0,common,Belongs to the succinate dehydrogenase fumarate reductase iron-sulfur protein family
+COG2142,8.0,common,succinate dehydrogenase
+COG2009,8.0,common,succinate dehydrogenase
+COG0653,8.0,common,"Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. Has a central role in coupling the hydrolysis of ATP to the transfer of proteins into and across the cell membrane, serving both as a receptor for the preprotein-SecB complex and as an ATP-driven molecular motor driving the stepwise translocation of polypeptide chains across the membrane"
+COG0263,8.0,common,Catalyzes the transfer of a phosphate group to glutamate to form L-glutamate 5-phosphate
+COG0215,8.0,common,Belongs to the class-I aminoacyl-tRNA synthetase family
+COG2921,8.0,common,Protein of unknown function (DUF493)
+COG0082,8.0,common,"Catalyzes the anti-1,4-elimination of the C-3 phosphate and the C-6 proR hydrogen from 5-enolpyruvylshikimate-3-phosphate (EPSP) to yield chorismate, which is the branch point compound that serves as the starting substrate for the three terminal pathways of aromatic amino acid biosynthesis. This reaction introduces a second double bond into the aromatic ring system"
+COG1534,8.0,common,RNA-binding protein
+COG0355,8.0,common,Produces ATP from ADP in the presence of a proton gradient across the membrane
+COG0837,8.0,common,Belongs to the bacterial glucokinase family
+COG1555,8.0,common,competence protein ComEA
+COG4970,8.0,common,Type II transport protein GspH
+COG2878,8.0,common,Part of a membrane complex involved in electron transport
+COG0177,8.0,common,"DNA repair enzyme that has both DNA N-glycosylase activity and AP-lyase activity. The DNA N-glycosylase activity releases various damaged pyrimidines from DNA by cleaving the N- glycosidic bond, leaving an AP (apurinic apyrimidinic) site. The AP-lyase activity cleaves the phosphodiester bond 3' to the AP site by a beta-elimination, leaving a 3'-terminal unsaturated sugar and a product with a terminal 5'-phosphate"
+COG2070,8.0,common,2-nitropropane dioxygenase
+COG2867,8.0,common,Oligoketide cyclase
+COG2914,8.0,common,Belongs to the UPF0125 (RnfH) family
+COG0216,8.0,common,Peptide chain release factor 1 directs the termination of translation in response to the peptide chain termination codons UAG and UAA
+COG2919,8.0,common,"Essential cell division protein. May link together the upstream cell division proteins, which are predominantly cytoplasmic, with the downstream cell division proteins, which are predominantly periplasmic"
+COG3109,8.0,common,ProQ/FINO family
+COG0018,8.0,common,"Catalyzes a two-step reaction, first charging an arginine molecule by linking its carboxyl group to the alpha-phosphate of ATP, followed by transfer of the aminoacyl-adenylate to its tRNA"
+COG3087,8.0,common,Sporulation related domain
+COG0629,8.0,common,"Plays an important role in DNA replication, recombination and repair. Binds to ssDNA and to an array of partner proteins to recruit them to their sites of action during DNA metabolism"
+COG0212,8.0,common,5-formyltetrahydrofolate cyclo-ligase family
+COG0459,8.0,common,Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions
+COG1565,8.0,common,Putative S-adenosyl-L-methionine-dependent methyltransferase
+COG0043,8.0,common,Belongs to the UbiD family
+COG0165,8.0,common,argininosuccinate lyase
+COG0287,8.0,common,Prephenate dehydrogenase
+COG0746,8.0,common,Transfers a GMP moiety from GTP to Mo-molybdopterin (Mo- MPT) cofactor (Moco or molybdenum cofactor) to form Mo- molybdopterin guanine dinucleotide (Mo-MGD) cofactor
+COG1192,8.0,common,chromosome partitioning
+COG1475,8.0,common,Belongs to the ParB family
+COG0012,8.0,common,ATPase that binds to both the 70S ribosome and the 50S ribosomal subunit in a nucleotide-independent manner
+COG0692,8.0,common,Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine
+COG0050,8.0,common,GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis
+COG1765,8.0,common,OsmC-like protein
+COG1278,8.0,common,COG1278 Cold shock proteins
+COG0801,8.0,common,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+COG0127,8.0,common,"Pyrophosphatase that catalyzes the hydrolysis of nucleoside triphosphates to their monophosphate derivatives, with a high preference for the non-canonical purine nucleotides XTP (xanthosine triphosphate), dITP (deoxyinosine triphosphate) and ITP. Seems to function as a house-cleaning enzyme that removes non-canonical purine nucleotides from the nucleotide pool, thus preventing their incorporation into DNA RNA and avoiding chromosomal lesions"
+COG0320,8.0,common,"Catalyzes the radical-mediated insertion of two sulfur atoms into the C-6 and C-8 positions of the octanoyl moiety bound to the lipoyl domains of lipoate-dependent enzymes, thereby converting the octanoylated domains into lipoylated derivatives"
+COG1585,8.0,common,Membrane protein implicated in regulation of membrane protease activity
+28JMK,8.0,common,Protein of unknown function (DUF2868)
+COG0486,8.0,common,GTPase SAR1
+COG1188,8.0,common,Belongs to the HSP15 family
+COG0851,8.0,common,Prevents the cell division inhibition by proteins MinC and MinD at internal division sites while permitting inhibition at polar sites. This ensures cell division at the proper site by restricting the formation of a division septum at the midpoint of the long axis of the cell
+COG2894,8.0,common,Belongs to the ParA family
+COG0850,8.0,common,Cell division inhibitor that blocks the formation of polar Z ring septums. Rapidly oscillates between the poles of the cell to destabilize FtsZ filaments that have formed before they mature into polar Z rings. Prevents FtsZ polymerization
+COG0647,8.0,common,Haloacid dehalogenase-like hydrolase
+COG0248,8.0,common,Belongs to the GppA Ppx family
+COG1466,8.0,common,dna polymerase III delta subunit
+COG1544,8.0,common,modulation protein
+COG0244,8.0,common,"Forms part of the ribosomal stalk, playing a central role in the interaction of the ribosome with GTP-bound translation factors"
+COG0723,8.0,common,"Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis"
+COG0231,8.0,common,"Involved in peptide bond synthesis. Stimulates efficient translation and peptide-bond synthesis on native or reconstituted 70S ribosomes in vitro. Probably functions indirectly by altering the affinity of the ribosome for aminoacyl-tRNA, thus increasing their reactivity as acceptors for peptidyl transferase"
+COG4663,8.0,common,Part of the tripartite ATP-independent periplasmic (TRAP) transport system
+COG4664,8.0,common,"Tripartite ATP-independent periplasmic transporter, DctM component"
+COG1807,8.0,common,COG1807 4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family
+COG0652,8.0,common,PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides
+28NXH,8.0,common,-
+COG0705,8.0,common,membrane
+COG0814,8.0,common,Transmembrane amino acid transporter protein
+COG1393,8.0,common,Belongs to the ArsC family
+COG1566,8.0,common,Biotin-lipoyl like
+COG0776,8.0,common,"This protein is one of the two subunits of integration host factor, a specific DNA-binding protein that functions in genetic recombination as well as in transcriptional and translational control"
+COG2901,8.0,common,Belongs to the transcriptional regulatory Fis family
+COG2091,8.0,common,lysine biosynthetic process via aminoadipic acid
+COG2606,8.0,common,Belongs to the prolyl-tRNA editing family. YbaK EbsC subfamily
+COG0798,3.0,common,Sodium Bile acid symporter family
+2AQEY,6.0,common,-
+COG2927,7.0,common,positive regulation of DNA-dependent DNA replication initiation
+COG2211,7.0,common,COG0477 Permeases of the major facilitator superfamily
+KOG2385,7.0,common,Protein of unknown function (DUF726)
+2EF8V,5.0,common,-
+COG2610,7.0,common,Na+-H+ antiporter family
+COG1929,7.0,common,Belongs to the glycerate kinase type-1 family
+COG3602,7.0,common,ACT domain
+COG0322,7.0,common,The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision
+COG0587,6.0,common,dna polymerase
+COG1489,5.0,common,Sugar fermentation stimulation protein
+COG0551,7.0,common,Zn-finger domain associated with topoisomerase type I
+COG2827,7.0,common,endonuclease containing a URI domain
+COG1058,7.0,common,Probable molybdopterin binding domain
+COG0632,6.0,common,"The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing. RuvA stimulates, in the presence of DNA, the weak ATPase activity of RuvB"
+COG0817,6.0,common,Nuclease that resolves Holliday junction intermediates in genetic recombination. Cleaves the cruciform structure in supercoiled DNA by nicking to strands with the same polarity at sites symmetrically opposed at the junction in the homologous arms and leaves a 5'-terminal phosphate and a 3'-terminal hydroxyl group
+COG0217,7.0,common,transcriptional regulatory protein
+COG0103,7.0,common,Belongs to the universal ribosomal protein uS9 family
+COG0673,7.0,common,"Catalyzes the reversible NADPH-dependent reductive amination of L-2-amino-6-oxopimelate, the acyclic form of L- tetrahydrodipicolinate, to generate the meso compound, D,L-2,6- diaminopimelate"
+COG1670,7.0,common,Acetyltransferase (GNAT) domain
+COG0753,7.0,common,Serves to protect cells from the toxic effects of hydrogen peroxide
+COG1720,6.0,common,Uncharacterised protein family UPF0066
+COG0272,7.0,common,DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA
+COG0610,6.0,common,"Type III restriction enzyme, res subunit"
+COG2189,5.0,common,DNA methylase
+COG0553,6.0,common,SNF2 family N-terminal domain
+COG0580,6.0,common,Major intrinsic protein
+COG1879,3.0,common,Periplasmic binding protein domain
+COG3737,5.0,common,Protein of unknown function (DUF498/DUF598)
+COG2999,5.0,common,"Glutaredoxin 2, C terminal domain"
+COG0069,7.0,common,Belongs to the glutamate synthase family
+COG0495,7.0,common,"due to the large number of codons that tRNA(Leu) recognizes, the leucyl-tRNA synthetase does not recognize the anticodon loop of the tRNA, but instead recognition is dependent on a conserved discriminator base A37 and a long arm"
+COG3210,6.0,common,Autotransporter beta-domain
+COG1490,7.0,common,"rejects L-amino acids rather than detecting D-amino acids in the active site. By recycling D-aminoacyl-tRNA to D-amino acids and free tRNA molecules, this enzyme counteracts the toxicity associated with the formation of D-aminoacyl-tRNA entities in vivo and helps enforce protein L-homochirality"
+COG0387,4.0,common,Sodium/calcium exchanger protein
+2ADVK,2.0,rare,ThiS family
+COG2022,5.0,common,"Catalyzes the rearrangement of 1-deoxy-D-xylulose 5- phosphate (DXP) to produce the thiazole phosphate moiety of thiamine. Sulfur is provided by the thiocarboxylate moiety of the carrier protein ThiS. In vitro, sulfur can be provided by H(2)S"
+2CPDF,4.0,common,Membrane bound FAD containing D-sorbitol dehydrogenase
+COG1982,6.0,common,"Orn/Lys/Arg decarboxylase, C-terminal domain"
+COG3422,6.0,common,Domain of unknown function (DUF1508)
+COG0307,7.0,common,Riboflavin synthase
+COG0108,7.0,common,"Catalyzes the conversion of D-ribulose 5-phosphate to formate and 3,4-dihydroxy-2-butanone 4-phosphate"
+COG0054,7.0,common,"Catalyzes the formation of 6,7-dimethyl-8- ribityllumazine by condensation of 5-amino-6-(D- ribitylamino)uracil with 3,4-dihydroxy-2-butanone 4-phosphate. This is the penultimate step in the biosynthesis of riboflavin"
+COG0810,7.0,common,"Interacts with outer membrane receptor proteins that carry out high-affinity binding and energy dependent uptake into the periplasmic space of specific substrates. It could act to transduce energy from the cytoplasmic membrane to specific energy- requiring processes in the outer membrane, resulting in the release into the periplasm of ligands bound by these outer membrane proteins"
+COG0359,7.0,common,binds to the 23S rRNA
+COG0238,5.0,common,"Binds as a heterodimer with protein S6 to the central domain of the 16S rRNA, where it helps stabilize the platform of the 30S subunit"
+COG0360,6.0,common,Binds together with S18 to 16S ribosomal RNA
+COG1075,6.0,common,Alpha/beta hydrolase family
+COG0642,7.0,common,His Kinase A (phosphoacceptor) domain
+29YHH,5.0,common,-
+COG0544,6.0,common,Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation. Functions as a peptidyl-prolyl cis-trans isomerase
+COG0828,5.0,common,Belongs to the bacterial ribosomal protein bS21 family
+COG2197,7.0,common,"helix_turn_helix, Lux Regulon"
+2A84Z,3.0,common,-
+COG0132,6.0,common,"Catalyzes a mechanistically unusual reaction, the ATP- dependent insertion of CO2 between the N7 and N8 nitrogen atoms of 7,8-diaminopelargonic acid (DAPA) to form an ureido ring"
+COG0220,7.0,common,Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA
+COG0016,7.0,common,Belongs to the class-II aminoacyl-tRNA synthetase family. Phe-tRNA synthetase alpha subunit type 1 subfamily
+COG0290,7.0,common,"IF-3 binds to the 30S ribosomal subunit and shifts the equilibrum between 70S ribosomes and their 50S and 30S subunits in favor of the free subunits, thus enhancing the availability of 30S subunits on which protein synthesis initiation begins"
+COG3293,3.0,common,Putative transposase of IS4/5 family (DUF4096)
+COG3622,3.0,common,Xylose isomerase-like TIM barrel
+COG3681,4.0,common,Serine dehydratase alpha chain
+COG0531,7.0,common,amino acid
+COG1009,4.0,common,NADH ubiquinone oxidoreductase subunit
+COG0713,4.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient"
+COG0839,5.0,common,Belongs to the complex I subunit 6 family
+COG1357,4.0,common,Autotransporter beta-domain
+COG1066,7.0,common,"DNA-dependent ATPase involved in processing of recombination intermediates, plays a role in repairing DNA breaks. Stimulates the branch migration of RecA-mediated strand transfer reactions, allowing the 3' invading strand to extend heteroduplex DNA faster. Binds ssDNA in the presence of ADP but not other nucleotides, has ATPase activity that is stimulated by ssDNA and various branched DNA structures, but inhibited by SSB. Does not have RecA's homology-searching function"
+COG0646,7.0,common,5-methyltetrahydrofolate--homocysteine methyltransferase
+COG3682,7.0,common,Penicillinase repressor
+COG2978,6.0,common,AbgT putative transporter family
+COG0603,6.0,common,Queuosine biosynthesis protein QueC
+COG0779,7.0,common,Required for maturation of 30S ribosomal subunits
+COG0602,5.0,common,queuosine metabolic process
+COG0720,5.0,common,synthase
+COG2188,6.0,common,histidine utilization repressor
+COG2987,6.0,common,Catalyzes the conversion of urocanate to 4-imidazolone- 5-propionate
+COG1228,6.0,common,Imidazolone-5-propionate hydrolase
+COG0010,7.0,common,Catalyzes the conversion of N-formimidoyl-L-glutamate to L-glutamate and formamide
+COG0599,7.0,common,Carboxymuconolactone decarboxylase family
+COG2050,6.0,common,COG0454 Histone acetyltransferase HPA2 and related acetyltransferases
+COG2356,5.0,common,Endonuclease I
+COG2608,7.0,common,heavy metal transport detoxification protein
+COG0451,7.0,common,COG0451 Nucleoside-diphosphate-sugar epimerases
+2BFBW,6.0,common,Fusaric acid resistance protein-like
+28JBH,3.0,common,Protein of unknown function (DUF3298)
+2DB8V,5.0,common,Gluconate 2-dehydrogenase subunit 3
+COG0038,7.0,common,COG0038 Chloride channel protein EriC
+COG1914,6.0,common,Mn2 and Fe2 transporters of the NRAMP family
+COG1540,5.0,common,LamB/YcsF family
+COG1984,6.0,common,Allophanate hydrolase subunit 2
+COG2049,6.0,common,Allophanate hydrolase subunit 1
+COG0730,7.0,common,membrane transporter protein
+COG0826,7.0,common,Peptidase family U32 C-terminal domain
+28PP3,2.0,rare,-
+COG1917,6.0,common,"Cupin 2, conserved barrel domain protein"
+COG0579,6.0,common,malate quinone oxidoreductase
+2AMA3,2.0,rare,Protein of unknown function (DUF2628)
+COG0598,7.0,common,CorA-like Mg2+ transporter protein
+COG0416,7.0,common,Fatty acid synthesis protein
+COG0333,7.0,common,Belongs to the bacterial ribosomal protein bL32 family
+COG1399,7.0,common,"Uncharacterized ACR, COG1399"
+COG0102,7.0,common,"This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly"
+COG2375,4.0,common,Iron utilization protein
+COG1299,4.0,common,"PTS system, fructose-specific"
+COG4148,7.0,common,Part of the ABC transporter complex ModABC involved in molybdenum import. Responsible for energy coupling to the transport system
+COG4149,7.0,common,"abc transporter, permease"
+COG1600,6.0,common,"Catalyzes the conversion of epoxyqueuosine (oQ) to queuosine (Q), which is a hypermodified base found in the wobble positions of tRNA(Asp), tRNA(Asn), tRNA(His) and tRNA(Tyr)"
+COG2851,5.0,common,Citrate transporter
+COG4291,7.0,common,membrane
+COG2801,5.0,common,Integrase core domain
+COG2963,5.0,common,Transposase
+COG2759,3.0,common,Formate--tetrahydrofolate ligase
+COG0121,6.0,common,glutamine amidotransferase
+COG1301,6.0,common,Belongs to the dicarboxylate amino acid cation symporter (DAACS) (TC 2.A.23) family
+COG1643,7.0,common,Helicase
+COG2132,2.0,rare,Multicopper oxidase
+COG5592,2.0,rare,hemerythrin HHE cation binding domain
+COG2846,2.0,rare,Domain of Unknown function (DUF542)
+COG3850,3.0,common,Histidine kinase
+COG2223,4.0,common,LacY proton/sugar symporter
+COG1080,5.0,common,General (non sugar-specific) component of the phosphoenolpyruvate-dependent sugar phosphotransferase system (sugar PTS). This major carbohydrate active-transport system catalyzes the phosphorylation of incoming sugar substrates concomitantly with their translocation across the cell membrane. Enzyme I transfers the phosphoryl group from phosphoenolpyruvate (PEP) to the phosphoryl carrier protein (HPr)
+COG3384,7.0,common,Extradiol ring-cleavage dioxygenase
+COG0049,5.0,common,"One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the head domain of the 30S subunit. Is located at the subunit interface close to the decoding center, probably blocks exit of the E-site tRNA"
+COG0048,4.0,common,"Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins on the other side and probably holding the rRNA structure together. The combined cluster of proteins S8, S12 and S17 appears to hold together the shoulder and platform of the 30S subunit"
+COG1526,5.0,common,Required for formate dehydrogenase (FDH) activity. Acts as a sulfur carrier protein that transfers sulfur from IscS to the molybdenum cofactor prior to its insertion into FDH
+COG1422,6.0,common,Protein of unknown function (DUF1090)
+COG2011,7.0,common,Binding-protein-dependent transport system inner membrane component
+COG0232,7.0,common,Phosphohydrolase-associated domain
+COG0533,7.0,common,"Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine. Is involved in the transfer of the threonylcarbamoyl moiety of threonylcarbamoyl-AMP (TC-AMP) to the N6 group of A37, together with TsaE and TsaB. TsaD likely plays a direct catalytic role in this reaction"
+COG0818,7.0,common,Recycling of diacylglycerol produced during the turnover of membrane phospholipid
+COG0825,7.0,common,"Component of the acetyl coenzyme A carboxylase (ACC) complex. First, biotin carboxylase catalyzes the carboxylation of biotin on its carrier protein (BCCP) and then the CO(2) group is transferred by the carboxyltransferase to acetyl-CoA to form malonyl-CoA"
+COG2607,7.0,common,Protein of unknown function (DUF815)
+COG2222,6.0,common,Iron dicitrate transport regulator FecR
+COG1820,7.0,common,Belongs to the metallo-dependent hydrolases superfamily. NagA family
+COG1551,6.0,common,Could accelerate the degradation of some genes transcripts potentially through selective RNA binding
+COG3853,6.0,common,Toxic anion resistance protein (TelA)
+2BHXU,5.0,common,-
+COG1180,4.0,common,4Fe-4S single cluster domain
+COG1882,4.0,common,Glycine radical
+COG3091,7.0,common,Belongs to the SprT family
+COG1702,7.0,common,Phosphate starvation-inducible protein PhoH
+COG0319,7.0,common,Single strand-specific metallo-endoribonuclease involved in late-stage 70S ribosome quality control and in maturation of the 3' terminus of the 16S rRNA
+COG1826,5.0,common,"Part of the twin-arginine translocation (Tat) system that transports large folded proteins containing a characteristic twin-arginine motif in their signal peptide across membranes. Together with TatC, TatB is part of a receptor directly interacting with Tat signal peptides. TatB may form an oligomeric binding site that transiently accommodates folded Tat precursor proteins before their translocation"
+COG3369,3.0,common,CDGSH-type zinc finger. Function unknown.
+COG0439,7.0,common,"An AccC homodimer forms the biotin carboxylase subunit of the acetyl CoA carboxylase, an enzyme that catalyzes the formation of malonyl-CoA, which in turn controls the rate of fatty acid metabolism"
+COG3658,6.0,common,Prokaryotic cytochrome b561
+COG4608,5.0,common,"Oligopeptide/dipeptide transporter, C-terminal region"
+COG0444,7.0,common,Belongs to the ABC transporter superfamily
+COG1173,7.0,common,Binding-protein-dependent transport system inner membrane component
+COG0601,7.0,common,Binding-protein-dependent transport system inner membrane component
+2EJEZ,7.0,common,Domain of unknown function (DUF4878)
+COG0422,5.0,common,Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction
+2AMM7,3.0,common,Pyrimidine dimer DNA glycosylase
+COG2193,5.0,common,"Iron-storage protein, whose ferroxidase center binds Fe(2 ) ions, oxidizes them by dioxygen to Fe(3 ), and participates in the subsequent Fe(3 ) oxide mineral core formation within the central cavity of the protein complex"
+COG2906,5.0,common,"2 iron, 2 sulfur cluster binding"
+COG2269,5.0,common,Elongation factor P--(R)-beta-lysine ligase
+COG1981,7.0,common,membrane
+COG0821,7.0,common,"Converts 2C-methyl-D-erythritol 2,4-cyclodiphosphate (ME-2,4cPP) into 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate"
+COG2255,7.0,common,"The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing"
+COG2833,6.0,common,Protein of unknown function (DUF455)
+COG1472,7.0,common,"Plays a role in peptidoglycan recycling by cleaving the terminal beta-1,4-linked N-acetylglucosamine (GlcNAc) from peptide-linked peptidoglycan fragments, giving rise to free GlcNAc, anhydro-N-acetylmuramic acid and anhydro-N-acetylmuramic acid-linked peptides"
+COG4085,3.0,common,"PFAM nucleic acid binding, OB-fold, tRNA"
+29YDY,2.0,rare,-
+COG1064,4.0,common,dehydrogenase
+2B67D,6.0,common,-
+29W28,7.0,common,-
+COG2365,6.0,common,Tyrosine phosphatase family
+COG1027,7.0,common,Fumarase C C-terminus
+COG3770,7.0,common,Penicillin-insensitive murein endopeptidase
+2CGJP,7.0,common,-
+COG1760,3.0,common,Serine dehydratase
+COG1414,6.0,common,Transcriptional regulator
+COG2890,6.0,common,Methylates the class 1 translation termination release factors RF1 PrfA and RF2 PrfB on the glutamine residue of the universally conserved GGQ motif
+COG1297,4.0,common,transporter
+COG3664,5.0,common,"Bacterial regulatory helix-turn-helix proteins, AraC family"
+COG0139,4.0,common,Histidine biosynthesis bifunctional protein HisIE
+29Z9P,2.0,rare,Protein of unknown function (DUF3592)
+2A07X,3.0,common,Protein of unknown function (DUF3592)
+COG0005,2.0,rare,"Catalyzes the reversible phosphorylation of S-methyl-5'- thioinosine (MTI) to hypoxanthine and 5-methylthioribose-1- phosphate. Involved in the breakdown of S-methyl-5'-thioadenosine (MTA), a major by-product of polyamine biosynthesis. Catabolism of (MTA) occurs via deamination to MTI and phosphorolysis to hypoxanthine"
+COG0370,7.0,common,Ferrous iron transport protein B
+COG1918,5.0,common,FeoA
+COG0518,2.0,rare,Catalyzes the synthesis of GMP from XMP
+COG5405,6.0,common,Protease subunit of a proteasome-like degradation complex believed to be a general protein degrading machinery
+COG1220,6.0,common,this subunit has chaperone activity. The binding of ATP and its subsequent hydrolysis by HslU are essential for unfolding of protein substrates subsequently hydrolyzed by HslV. HslU recognizes the N-terminal part of its protein substrates and unfolds these before they are guided to HslV for hydrolysis
+COG1561,7.0,common,stress-induced protein
+COG1363,7.0,common,M42 glutamyl aminopeptidase
+COG0344,7.0,common,"Catalyzes the transfer of an acyl group from acyl- phosphate (acyl-PO(4)) to glycerol-3-phosphate (G3P) to form lysophosphatidic acid (LPA). This enzyme utilizes acyl-phosphate as fatty acyl donor, but not acyl-CoA or acyl-ACP"
+COG1199,7.0,common,Helicase
+COG1286,7.0,common,"membrane protein, required for colicin V production"
+COG3147,7.0,common,peptidoglycan binding
+COG0696,5.0,common,Catalyzes the interconversion of 2-phosphoglycerate and 3-phosphoglycerate
+COG2081,6.0,common,HI0933-like protein
+COG0747,4.0,common,"Bacterial extracellular solute-binding proteins, family 5 Middle"
+COG1253,7.0,common,Transporter associated domain
+COG1281,7.0,common,Redox regulated molecular chaperone. Protects both thermally unfolding and oxidatively damaged proteins from irreversible aggregation. Plays an important role in the bacterial defense system toward oxidative stress
+COG2080,7.0,common,Aerobic-type carbon monoxide dehydrogenase small subunit CoxS
+COG1529,7.0,common,Xanthine dehydrogenase
+COG0209,6.0,common,Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides
+COG0502,7.0,common,Catalyzes the conversion of dethiobiotin (DTB) to biotin by the insertion of a sulfur atom into dethiobiotin via a radical- based mechanism
+COG0449,7.0,common,"Catalyzes the first step in hexosamine metabolism, converting fructose-6P into glucosamine-6P using glutamine as a nitrogen source"
+COG3758,6.0,common,HutD
+COG1787,7.0,common,endonuclease distantly related to archaeal Holliday junction resolvase and Mrr-like restriction enzymes
+COG1271,7.0,common,"oxidase, subunit"
+COG1294,7.0,common,"oxidase, subunit II"
+COG0110,2.0,rare,Hexapeptide repeat of succinyl-transferase
+COG1209,3.0,common,"Catalyzes the formation of dTDP-glucose, from dTTP and glucose 1-phosphate, as well as its pyrophosphorolysis"
+COG1088,4.0,common,Belongs to the NAD(P)-dependent epimerase dehydratase family. dTDP-glucose dehydratase subfamily
+COG4816,2.0,rare,Carboxysome structural protein involved in ethanolamine utilization
+COG3564,2.0,rare,Ethanolamine ammonia-lyase light chain (EutC)
+COG4303,2.0,rare,With EutC catalyzes the formation of acetaldehyde and ammonia from ethanolamine
+COG4819,2.0,rare,ethanolamine utilization protein
+COG3192,2.0,rare,ethanolamine utilization protein
+COG3650,6.0,common,response to hydrogen peroxide
+COG0685,7.0,common,Methylenetetrahydrofolate reductase
+COG1304,6.0,common,Catalyzes the conversion of L-lactate to pyruvate. Is coupled to the respiratory chain
+COG0203,7.0,common,Ribosomal protein L17
+COG2717,2.0,rare,"Part of the MsrPQ system that repairs oxidized periplasmic proteins containing methionine sulfoxide residues (Met-O), using respiratory chain electrons. Thus protects these proteins from oxidative-stress damage caused by reactive species of oxygen and chlorine generated by the host defense mechanisms. MsrPQ is essential for the maintenance of envelope integrity under bleach stress, rescuing a wide series of structurally unrelated periplasmic proteins from methionine oxidation. MsrQ provides electrons for reduction to the reductase catalytic subunit MsrP, using the quinone pool of the respiratory chain"
+COG2041,2.0,rare,"Part of the MsrPQ system that repairs oxidized periplasmic proteins containing methionine sulfoxide residues (Met-O), using respiratory chain electrons. Thus protects these proteins from oxidative-stress damage caused by reactive species of oxygen and chlorine generated by the host defense mechanisms. MsrPQ is essential for the maintenance of envelope integrity under bleach stress, rescuing a wide series of structurally unrelated periplasmic proteins from methionine oxidation. The catalytic subunit MsrP is non-stereospecific, being able to reduce both (R-) and (S-) diastereoisomers of methionine sulfoxide"
+COG0469,6.0,common,Belongs to the pyruvate kinase family
+COG1574,6.0,common,Amidohydrolase family
+COG3381,6.0,common,"Involved in the biogenesis of TorA. Acts on TorA before the insertion of the molybdenum cofactor and, as a result, probably favors a conformation of the apoenzyme that is competent for acquiring the cofactor"
+COG0191,7.0,common,Fructose-bisphosphate aldolase class-II
+COG1007,6.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient"
+COG0521,6.0,common,Probable molybdopterin binding domain
+COG0786,7.0,common,Catalyzes the sodium-dependent transport of glutamate
+COG4666,7.0,common,"TRAP transporter, 4TM 12TM fusion protein"
+COG4391,7.0,common,Zinc-finger domain
+COG1214,7.0,common,glycoprotease
+COG0442,7.0,common,"Catalyzes the attachment of proline to tRNA(Pro) in a two-step reaction proline is first activated by ATP to form Pro- AMP and then transferred to the acceptor end of tRNA(Pro). As ProRS can inadvertently accommodate and process non-cognate amino acids such as alanine and cysteine, to avoid such errors it has two additional distinct editing activities against alanine. One activity is designated as 'pretransfer' editing and involves the tRNA(Pro)-independent hydrolysis of activated Ala-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Ala-tRNA(Pro). The misacylated Cys- tRNA(Pro) is not edited by ProRS"
+COG1034,7.0,common,NADH-quinone oxidoreductase
+COG2962,7.0,common,EamA-like transporter family
+COG2877,7.0,common,Belongs to the KdsA family
+29EG9,6.0,common,-
+COG2220,6.0,common,Beta-lactamase superfamily domain
+COG2755,7.0,common,Stress responsive A/B Barrel Domain
+2E2U0,4.0,common,-
+COG2938,7.0,common,"An FAD assembly protein, which accelerates covalent attachment of the cofactor into other proteins. Plays an essential role in the assembly of succinate dehydrogenase (SDH, respiratory complex II), an enzyme complex that is a component of both the tricarboxylic acid cycle and the electron transport chain, and which couples the oxidation of succinate to fumarate with the reduction of ubiquinone (coenzyme Q) to ubiquinol. Required for flavinylation (covalent attachment of FAD) of the flavoprotein subunit SdhA of SDH and other flavinylated proteins as well"
+COG0371,7.0,common,Iron-containing alcohol dehydrogenase
+COG3713,6.0,common,MltA-interacting protein MipA
+COG0240,5.0,common,Glycerol-3-phosphate dehydrogenase
+COG0113,6.0,common,Belongs to the ALAD family
+29EGD,7.0,common,-
+COG2961,4.0,common,Specifically methylates the adenine in position 2030 of 23S rRNA
+COG3162,6.0,common,"Protein of unknown function, DUF485"
+COG1063,6.0,common,Alcohol dehydrogenase GroES-like domain
+COG2824,6.0,common,Alkylphosphonate utilization operon protein PhnA
+COG3049,5.0,common,"Linear amide C-N hydrolases, choloylglycine hydrolase family"
+COG0558,7.0,common,CDP-alcohol phosphatidyltransferase
+COG3211,5.0,common,Phosphatase
+COG4607,7.0,common,Periplasmic binding protein
+COG4604,5.0,common,ABC transporter
+COG4605,6.0,common,Belongs to the binding-protein-dependent transport system permease family. FecCD subfamily
+COG1902,4.0,common,Oxidoreductase
+COG0350,5.0,common,Involved in the cellular defense against the biological effects of O6-methylguanine (O6-MeG) and O4-methylthymine (O4-MeT) in DNA. Repairs the methylated nucleobase in DNA by stoichiometrically transferring the methyl group to a cysteine residue in the enzyme. This is a suicide reaction the enzyme is irreversibly inactivated
+COG0820,6.0,common,Specifically methylates position 2 of adenine 2503 in 23S rRNA and position 2 of adenine 37 in tRNAs
+COG0105,6.0,common,"Major role in the synthesis of nucleoside triphosphates other than ATP. The ATP gamma phosphate is transferred to the NDP beta phosphate via a ping-pong mechanism, using a phosphorylated active-site intermediate"
+COG3104,3.0,common,Transporter
+COG3114,5.0,common,Required for the export of heme to the periplasm for the biogenesis of c-type cytochromes
+COG1282,7.0,common,The transhydrogenation between NADH and NADP is coupled to respiration and ATP hydrolysis and functions as a proton pump across the membrane
+COG1195,6.0,common,"it is required for DNA replication and normal SOS inducibility. RecF binds preferentially to single-stranded, linear DNA. It also seems to bind ATP"
+29HH0,7.0,common,-
+COG0095,6.0,common,Lipoate-protein ligase
+COG1609,4.0,common,transcriptional
+COG0831,5.0,common,"Urease, gamma subunit"
+COG0832,5.0,common,Urease beta subunit
+COG0804,5.0,common,"Urease alpha-subunit, N-terminal domain"
+COG2371,4.0,common,Involved in urease metallocenter assembly. Binds nickel. Probably functions as a nickel donor during metallocenter assembly
+COG0830,4.0,common,UreF
+COG0378,4.0,common,"CobW/HypB/UreG, nucleotide-binding domain"
+COG0829,4.0,common,Required for maturation of urease via the functional incorporation of the urease nickel metallocenter
+COG4413,4.0,common,urea transporter
+COG0590,7.0,common,Catalyzes the deamination of adenosine to inosine at the wobble position 34 of tRNA(Arg2)
+COG1485,7.0,common,Reduces the stability of FtsZ polymers in the presence of ATP
+COG0247,7.0,common,FAD FMN-containing dehydrogenases
+COG4558,7.0,common,Periplasmic binding protein
+COG4559,2.0,rare,Part of the ABC transporter complex HmuTUV involved in hemin import. Responsible for energy coupling to the transport system
+COG0046,7.0,common,Phosphoribosylformylglycinamidine synthase involved in the purines biosynthetic pathway. Catalyzes the ATP-dependent conversion of formylglycinamide ribonucleotide (FGAR) and glutamine to yield formylglycinamidine ribonucleotide (FGAM) and glutamate
+COG0026,7.0,common,Catalyzes the ATP-dependent conversion of 5- aminoimidazole ribonucleotide (AIR) and HCO(3)(-) to N5- carboxyaminoimidazole ribonucleotide (N5-CAIR)
+COG3137,6.0,common,"Protein of unknown function, DUF481"
+COG0057,7.0,common,Belongs to the glyceraldehyde-3-phosphate dehydrogenase family
+COG2066,2.0,rare,Glutaminase
+COG0076,2.0,rare,Pyridoxal-dependent decarboxylase conserved domain
+COG0717,7.0,common,Catalyzes the formation of dUTP from dCTP in thymidylate biosynthesis
+COG0654,7.0,common,hydroxylase
+COG0315,6.0,common,"Catalyzes the conversion of (8S)-3',8-cyclo-7,8- dihydroguanosine 5'-triphosphate to cyclic pyranopterin monophosphate (cPMP)"
+COG3314,7.0,common,protein conserved in bacteria
+COG3040,7.0,common,Lipocalin-like domain
+COG0044,6.0,common,Catalyzes the reversible hydrolysis of the amide bond within dihydroorotate. This metabolic intermediate is required for the biosynthesis of pyrimidine nucleotides
+COG2181,3.0,common,nitrate reductase
+COG2230,7.0,common,Catalyzes the transfer of a methylene group from S-adenosyl-L-methionine to the cis double bond of an unsaturated fatty acid chain resulting in the replacement of the double bond with a methylene bridge
+COG3113,6.0,common,STAS domain
+COG3619,6.0,common,Protein of unknown function (DUF1275)
+COG2161,4.0,common,Antitoxin component of a toxin-antitoxin (TA) module
+COG2323,5.0,common,Protein of unknown function (DUF421)
+COG4820,2.0,rare,Ethanolamine utilization protein EutJ
+COG4810,2.0,rare,ethanolamine utilization protein
+COG4917,2.0,rare,Ethanolamine utilisation - propanediol utilisation
+COG4577,2.0,rare,propanediol utilization protein
+COG4656,2.0,rare,NADH dehydrogenase
+COG0789,5.0,common,"helix_turn_helix, mercury resistance"
+COG2813,7.0,common,Methyltransferase
+COG1866,7.0,common,Phosphoenolpyruvate carboxykinase
+COG0797,7.0,common,Lytic transglycosylase with a strong preference for naked glycan strands that lack stem peptides
+COG2951,7.0,common,murein transglycosylase
+COG0732,6.0,common,Type I restriction modification DNA specificity domain
+COG2184,2.0,rare,Fic/DOC family
+COG2128,7.0,common,Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity
+COG1179,7.0,common,Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1
+28INI,6.0,common,Phosphoribosyl-dephospho-CoA transferase MdcG
+COG2140,6.0,common,Oxalate decarboxylase
+COG0066,7.0,common,"Catalyzes the isomerization between 2-isopropylmalate and 3-isopropylmalate, via the formation of 2-isopropylmaleate"
+COG0065,7.0,common,"Catalyzes the isomerization between 2-isopropylmalate and 3-isopropylmalate, via the formation of 2-isopropylmaleate"
+COG0520,7.0,common,"Catalyzes the removal of elemental sulfur and selenium atoms from L-cysteine, L-cystine, L-selenocysteine, and L- selenocystine to produce L-alanine"
+COG0396,7.0,common,Part of SUF system involved in inserting iron-sulfur clusters into proteins
+COG1105,4.0,common,Belongs to the carbohydrate kinase PfkB family
+COG5013,3.0,common,Belongs to the prokaryotic molybdopterin-containing oxidoreductase family
+COG1140,2.0,rare,one of 3 nitrate reductases in E. coli and in E. coli is expressed when nitrate levels are high
+COG2180,2.0,rare,nitrate reductase
+COG0040,6.0,common,Catalyzes the condensation of ATP and 5-phosphoribose 1- diphosphate to form N'-(5'-phosphoribosyl)-ATP (PR-ATP). Has a crucial role in the pathway because the rate of histidine biosynthesis seems to be controlled primarily by regulation of HisG enzymatic activity
+COG0414,6.0,common,Catalyzes the condensation of pantoate with beta-alanine in an ATP-dependent reaction via a pantoyl-adenylate intermediate
+COG0413,6.0,common,"Catalyzes the reversible reaction in which hydroxymethyl group from 5,10-methylenetetrahydrofolate is transferred onto alpha-ketoisovalerate to form ketopantoate"
+COG2519,6.0,common,Putative rRNA methylase
+COG0433,5.0,common,ATP-binding protein
+COG0738,3.0,common,Protein TsgA homolog
+COG1957,6.0,common,Belongs to the IUNH family
+COG2431,5.0,common,Lysine exporter LysO
+2EGD6,6.0,common,Protein of unknown function (DUF2892)
+COG0584,7.0,common,Glycerophosphoryl diester phosphodiesterase family
+COG1518,5.0,common,CRISPR associated protein Cas1
+COG1203,5.0,common,"CRISPR-associated helicase, Cas3"
+2DBF1,4.0,common,CRISPR-associated protein (Cas_Csy1)
+2DBIX,4.0,common,CRISPR-associated protein (Cas_Csy2)
+2DB80,4.0,common,CRISPR-associated protein (Cas_Csy3)
+2AUAD,2.0,rare,CRISPR-associated protein (Cas_Csy4)
+COG3451,2.0,rare,"CagE, TrbE, VirB family, component of type IV transporter system"
+2C7V7,2.0,rare,-
+COG0401,7.0,common,Proteolipid membrane potential modulator
+COG1043,7.0,common,"Involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell"
+COG1825,7.0,common,This is one of the proteins that binds to the 5S RNA in the ribosome where it forms part of the central protuberance
+COG2518,7.0,common,protein-L-isoaspartate O-methyltransferase
+COG0112,6.0,common,"Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF- independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism"
+COG1434,4.0,common,DUF218 domain
+COG1506,6.0,common,Secretory lipase
+COG2818,7.0,common,Methyladenine glycosylase
+COG1622,6.0,common,ubiquinol oxidase subunit
+COG0843,5.0,common,Cytochrome c oxidase is the component of the respiratory chain that catalyzes the reduction of oxygen to water. Subunits 1- 3 form the functional core of the enzyme complex. CO I is the catalytic subunit of the enzyme. Electrons originating in cytochrome c are transferred via the copper A center of subunit 2 and heme A of subunit 1 to the bimetallic center formed by heme A3 and copper B
+COG1845,4.0,common,cytochrome o ubiquinol oxidase subunit III
+COG3125,4.0,common,Prokaryotic Cytochrome C oxidase subunit IV
+COG0109,4.0,common,Converts heme B (protoheme IX) to heme O by substitution of the vinyl group on carbon 2 of heme B porphyrin ring with a hydroxyethyl farnesyl side group
+COG3421,2.0,rare,DEAD-like helicases superfamily
+COG5614,5.0,common,head-tail adaptor
+COG1120,7.0,common,ABC transporter
+COG1408,5.0,common,Calcineurin-like phosphoesterase
+COG0547,6.0,common,Catalyzes the transfer of the phosphoribosyl group of 5- phosphorylribose-1-pyrophosphate (PRPP) to anthranilate to yield N-(5'-phosphoribosyl)-anthranilate (PRA)
+COG0134,6.0,common,Belongs to the TrpC family
+COG0549,7.0,common,Belongs to the carbamate kinase family
+COG0074,5.0,common,Protein of unknown function (DUF1116)
+COG2055,5.0,common,Malate/L-lactate dehydrogenase
+COG1112,3.0,common,AAA domain
+COG2900,6.0,common,SlyX
+COG1143,6.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient"
+COG1005,6.0,common,"NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone"
+COG1974,6.0,common,Peptidase S24-like
+2F2S5,7.0,common,-
+COG0171,7.0,common,NAD synthase
+COG1488,7.0,common,"Quinolinate phosphoribosyl transferase, C-terminal domain"
+COG3012,6.0,common,Belongs to the UPF0225 family
+2BM8W,7.0,common,Cell division protein FtsL
+COG0275,7.0,common,Specifically methylates the N4 position of cytidine in position 1402 (C1402) of 16S rRNA
+COG3188,5.0,common,"Psort location OuterMembrane, score 10.00"
+COG3121,5.0,common,Pili assembly chaperone
+COG3034,5.0,common,ErfK YbiS YcfS YnhG family protein
+COG0752,6.0,common,glycyl-tRNA synthetase alpha subunit
+COG2068,7.0,common,Molybdopterin-guanine dinucleotide biosynthesis protein MobA
+COG1975,7.0,common,XdhC Rossmann domain
+COG0334,4.0,common,Glutamate/Leucine/Phenylalanine/Valine dehydrogenase
+2BZG4,7.0,common,"Psort location CytoplasmicMembrane, score"
+COG4336,7.0,common,Belongs to the D-glutamate cyclase family
+2ATVH,7.0,common,Predicted membrane protein (DUF2069)
+COG0498,7.0,common,Threonine synthase
+COG3654,2.0,rare,Fic/DOC family
+2BGIY,2.0,rare,-
+COG1162,7.0,common,"One of several proteins that assist in the late maturation steps of the functional core of the 30S ribosomal subunit. Helps release RbfA from mature subunits. May play a role in the assembly of ribosomal proteins into the subunit. Circularly permuted GTPase that catalyzes slow GTP hydrolysis, GTPase activity is stimulated by the 30S ribosomal subunit"
+COG3641,7.0,common,"Phosphotransferase system, EIIC"
+COG2077,7.0,common,"Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides"
+COG0620,6.0,common,Catalyzes the transfer of a methyl group from 5- methyltetrahydrofolate to homocysteine resulting in methionine formation
+COG0765,6.0,common,Binding-protein-dependent transport system inner membrane component
+COG0663,6.0,common,carbonic
+COG0077,5.0,common,Prephenate dehydratase
+2EFW8,3.0,common,-
+COG1539,6.0,common,"Catalyzes the conversion of 7,8-dihydroneopterin to 6- hydroxymethyl-7,8-dihydropterin"
+COG3203,7.0,common,Forms passive diffusion pores that allow small molecular weight hydrophilic materials across the outer membrane
+COG1610,7.0,common,Glutamyl-tRNA amidotransferase
+COG1512,4.0,common,Beta-propeller domains of methanol dehydrogenase type
+COG0160,5.0,common,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family
+COG3146,3.0,common,Peptidogalycan biosysnthesis/recognition
+COG1947,5.0,common,Catalyzes the phosphorylation of the position 2 hydroxy group of 4-diphosphocytidyl-2C-methyl-D-erythritol
+COG3017,5.0,common,protein transport
+COG0462,7.0,common,Involved in the biosynthesis of the central metabolite phospho-alpha-D-ribosyl-1-pyrophosphate (PRPP) via the transfer of pyrophosphoryl group from ATP to 1-hydroxyl of ribose-5-phosphate (Rib-5-P)
+COG2924,7.0,common,"Could be a mediator in iron transactions between iron acquisition and iron-requiring processes, such as synthesis and or repair of Fe-S clusters in biosynthetic enzymes"
+COG0594,7.0,common,ribonuclease P activity
+COG1129,5.0,common,ABC transporter
+COG1869,5.0,common,RbsD / FucU transport protein family
+COG1814,6.0,common,membrane
+COG0295,4.0,common,This enzyme scavenges exogenous and endogenous cytidine and 2'-deoxycytidine for UMP synthesis
+COG4175,6.0,common,Glycine betaine
+COG4176,6.0,common,Binding-protein-dependent transport system inner membrane component
+COG2113,6.0,common,Substrate binding domain of ABC-type glycine betaine transport system
+COG2856,2.0,rare,Pfam:DUF955
+COG1451,4.0,common,Protein of unknown function DUF45
+COG3005,6.0,common,"NapC/NirT cytochrome c family, N-terminal region"
+COG0226,4.0,common,Part of the ABC transporter complex PstSACB involved in phosphate import
+COG0573,5.0,common,probably responsible for the translocation of the substrate across the membrane
+COG0581,5.0,common,phosphate transport system permease
+2C1VC,7.0,common,-
+COG1696,7.0,common,"MBOAT, membrane-bound O-acyltransferase family"
+COG2845,6.0,common,Protein of unknown function (DUF459)
+COG1183,7.0,common,Belongs to the CDP-alcohol phosphatidyltransferase class-I family
+COG2095,7.0,common,MarC family integral membrane protein
+COG3586,4.0,common,Cleaves both 3' and 5' ssDNA extremities of branched DNA structures
+2EPIR,4.0,common,-
+29530,3.0,common,-
+2ESH1,3.0,common,-
+COG0464,5.0,common,ATPase family associated with various cellular activities (AAA)
+COG0648,5.0,common,AP endonuclease family 2
+COG1252,2.0,rare,"NADH dehydrogenase, FAD-containing subunit"
+COG0031,6.0,common,Belongs to the cysteine synthase cystathionine beta- synthase family
+2DC0W,2.0,rare,-
+arCOG09719,4.0,common,Protein of unknown function (DUF3100)
+COG0482,7.0,common,"Catalyzes the 2-thiolation of uridine at the wobble position (U34) of tRNA, leading to the formation of s(2)U34"
+COG2704,4.0,common,Responsible for the transport of C4-dicarboxylates from the periplasm across the inner membrane
+COG5007,7.0,common,Belongs to the BolA IbaG family
+2EI1I,2.0,rare,-
+COG2026,3.0,common,cytotoxic translational repressor of toxin-antitoxin
+COG2072,7.0,common,Flavin-binding monooxygenase-like
+COG2345,4.0,common,L-2-amino-thiazoline-4-carboxylic acid hydrolase
+COG0293,7.0,common,Specifically methylates the uridine in position 2552 of 23S rRNA at the 2'-O position of the ribose in the fully assembled 50S ribosomal subunit
+2EIHP,4.0,common,Protein of unknown function (DUF2877)
+2BKYK,7.0,common,Branched-chain amino acid transport protein (AzlD)
+COG1296,7.0,common,AzlC protein
+COG0321,7.0,common,Catalyzes the transfer of endogenously produced octanoic acid from octanoyl-acyl-carrier-protein onto the lipoyl domains of lipoate-dependent enzymes. Lipoyl-ACP can also act as a substrate although octanoyl-ACP is likely to be the physiological substrate
+COG2501,3.0,common,S4 domain
+COG0460,7.0,common,Homoserine dehydrogenase
+COG0556,7.0,common,"damaged site, the DNA wraps around one UvrB monomer. DNA wrap is dependent on ATP binding by UvrB and probably causes local melting of the DNA helix, facilitating insertion of UvrB beta-hairpin between the DNA strands. Then UvrB probes one DNA strand for the presence of a lesion. If a lesion is found the UvrA subunits dissociate and the UvrB-DNA preincision complex is formed. This complex is subsequently bound by UvrC and the second UvrB is released. If no lesion is found, the DNA wraps around the other UvrB subunit that will check the other stand for damage"
+COG0345,7.0,common,Catalyzes the reduction of 1-pyrroline-5-carboxylate (PCA) to L-proline
+COG0178,7.0,common,"The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by UvrB, the UvrA molecules dissociate"
+COG0361,7.0,common,"One of the essential components for the initiation of protein synthesis. Stabilizes the binding of IF-2 and IF-3 on the 30S subunit to which N-formylmethionyl-tRNA(fMet) subsequently binds. Helps modulate mRNA selection, yielding the 30S pre- initiation complex (PIC). Upon addition of the 50S ribosomal subunit IF-1, IF-2 and IF-3 are released leaving the mature 70S translation initation complex"
+COG0689,7.0,common,Phosphorolytic exoribonuclease that removes nucleotide residues following the -CCA terminus of tRNA and adds nucleotides to the ends of RNA molecules by using nucleoside diphosphates as substrates
+COG0548,7.0,common,Acetylglutamate kinase
+COG4992,7.0,common,also functions as the catabolic acetylornithine aminotransferase catalyzing the formation of 2-N-acetylglutamate semialdehyde and glutamate from 2-N-acetylornithine and alpha-ketoglutarate
+COG4799,6.0,common,Carboxyl transferase domain
+COG1767,4.0,common,ATP:dephospho-CoA triphosphoribosyl transferase
+COG4670,5.0,common,Malonate decarboxylase
+COG0166,7.0,common,Belongs to the GPI family
+COG1087,7.0,common,Belongs to the NAD(P)-dependent epimerase dehydratase family
+COG3563,3.0,common,Capsule polysaccharide biosynthesis protein
+COG0227,5.0,common,Belongs to the bacterial ribosomal protein bL28 family
+COG2805,7.0,common,twitching motility protein
+COG0036,6.0,common,Belongs to the ribulose-phosphate 3-epimerase family
+COG0001,6.0,common,Glutamate-1-semialdehyde aminotransferase
+28Z8J,3.0,common,-
+2A49S,2.0,rare,-
+COG5006,7.0,common,EamA-like transporter family
+COG3101,7.0,common,Elongation factor P hydroxylase
+COG0622,6.0,common,"retrograde transport, endosome to Golgi"
+COG0234,7.0,common,Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter
+COG4828,7.0,common,Protein of unknown function (DUF1622)
+COG4642,5.0,common,"Possible plasma membrane-binding motif in junctophilins, PIP-5-kinases and protein kinases."
+2DBI0,3.0,common,PFAM TnsA endonuclease
+COG1002,2.0,rare,"Type II restriction enzyme, methylase subunits"
+COG1201,3.0,common,Domain of unknown function (DUF1998)
+COG2761,5.0,common,DSBA oxidoreductase
+2BIR9,4.0,common,-
+COG3152,6.0,common,Membrane
+COG0591,6.0,common,Belongs to the sodium solute symporter (SSF) (TC 2.A.21) family
+COG0114,7.0,common,Involved in the TCA cycle. Catalyzes the stereospecific interconversion of fumarate to L-malate
+2BJ77,7.0,common,Domain of unknown function (DUF4390)
+COG0176,7.0,common,Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway
+COG1977,7.0,common,ThiS family
+COG0314,7.0,common,MoaE protein
+COG0239,6.0,common,"Important for reducing fluoride concentration in the cell, thus reducing its toxicity"
+2CFUA,7.0,common,-
+COG1660,6.0,common,Displays ATPase and GTPase activities
+COG1330,7.0,common,"A helicase nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holoenzyme degrades any linearized DNA that is unable to undergo homologous recombination. In the holoenzyme this subunit recognizes the wild- type Chi sequence, and when added to isolated RecB increases its ATP-dependent helicase processivity"
+COG0419,7.0,common,"Putative exonuclease SbcCD, C subunit"
+COG3170,5.0,common,"Psort location CytoplasmicMembrane, score"
+COG1714,7.0,common,RDD family
+COG3963,5.0,common,methyltransferase
+COG0078,6.0,common,"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"
+29GZI,5.0,common,-
+COG0566,7.0,common,Specifically methylates the ribose of guanosine 2251 in 23S rRNA
+COG0560,3.0,common,haloacid dehalogenase-like hydrolase
+COG2996,7.0,common,S1 domain
+COG0542,7.0,common,"Part of a stress-induced multi-chaperone system, it is involved in the recovery of the cell from heat-induced damage, in cooperation with DnaK, DnaJ and GrpE"
+COG4097,4.0,common,Ferric reductase like transmembrane component
+COG2834,6.0,common,Participates in the translocation of lipoproteins from the inner membrane to the outer membrane. Only forms a complex with a lipoprotein if the residue after the N-terminal Cys is not an aspartate (The Asp acts as a targeting signal to indicate that the lipoprotein should stay in the inner membrane)
+COG2256,6.0,common,Recombination factor protein RarA
+COG2259,5.0,common,DoxX
+COG1238,5.0,common,Membrane
+COG1432,3.0,common,NYN domain
+COG0552,7.0,common,"Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC). Interaction with SRP-RNC leads to the transfer of the RNC complex to the Sec translocase for insertion into the membrane, the hydrolysis of GTP by both Ffh and FtsY, and the dissociation of the SRP-FtsY complex into the individual components"
+COG0213,4.0,common,Pyrimidine nucleoside phosphorylase C-terminal domain
+COG1381,7.0,common,Involved in DNA repair and RecF pathway recombination
+COG0164,7.0,common,Endonuclease that specifically degrades the RNA of RNA- DNA hybrids
+COG0763,7.0,common,"Condensation of UDP-2,3-diacylglucosamine and 2,3- diacylglucosamine-1-phosphate to form lipid A disaccharide, a precursor of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell"
+2A4SY,4.0,common,FeoC like transcriptional regulator
+2E4I3,7.0,common,Protein of unknown function (DUF3079)
+COG0014,7.0,common,Catalyzes the NADPH-dependent reduction of L-glutamate 5-phosphate into L-glutamate 5-semialdehyde and phosphate. The product spontaneously undergoes cyclization to form 1-pyrroline-5- carboxylate
+COG0278,7.0,common,Belongs to the glutaredoxin family. Monothiol subfamily
+COG0035,7.0,common,Catalyzes the conversion of uracil and 5-phospho-alpha- D-ribose 1-diphosphate (PRPP) to UMP and diphosphate
+COG2258,7.0,common,3-alpha domain
+COG0222,7.0,common,Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors. Is thus essential for accurate translation
+COG0085,7.0,common,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+2BZXI,6.0,common,-
+COG0211,5.0,common,Belongs to the bacterial ribosomal protein bL27 family
+COG0536,6.0,common,"An essential GTPase which binds GTP, GDP and possibly (p)ppGpp with moderate affinity, with high nucleotide exchange rates and a fairly low GTP hydrolysis rate. Plays a role in control of the cell cycle, stress response, ribosome biogenesis and in those bacteria that undergo differentiation, in morphogenesis control"
+COG3410,4.0,common,Uncharacterized conserved protein (DUF2075)
+COG3863,5.0,common,"Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family"
+28H5S,3.0,common,Domain of unknown function (DUF1852)
+COG0592,5.0,common,"Confers DNA tethering and processivity to DNA polymerases and other proteins. Acts as a clamp, forming a ring around DNA (a reaction catalyzed by the clamp-loading complex) which diffuses in an ATP-independent manner freely and bidirectionally along dsDNA. Initially characterized for its ability to contact the catalytic subunit of DNA polymerase III (Pol III), a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria"
+COG0221,6.0,common,Catalyzes the hydrolysis of inorganic pyrophosphate (PPi) forming two phosphate ions
+COG0081,7.0,common,"Binds directly to 23S rRNA. The L1 stalk is quite mobile in the ribosome, and is involved in E site tRNA release"
+COG0781,7.0,common,Involved in transcription antitermination. Required for transcription of ribosomal RNA (rRNA) genes. Binds specifically to the boxA antiterminator sequence of the ribosomal RNA (rrn) operons
+COG0605,7.0,common,Destroys radicals which are normally produced within the cells and which are toxic to biological systems
+COG3161,4.0,common,Chorismate lyase
+COG2267,7.0,common,Alpha beta hydrolase
+2DQBB,3.0,common,"Aromatic-ring-opening dioxygenase LigAB, LigA subunit"
+COG4638,4.0,common,"Part of the multicomponent 3-phenylpropionate dioxygenase. Converts 3-phenylpropionic acid (PP) and cinnamic acid (CI) into 3-phenylpropionate-dihydrodiol (PP-dihydrodiol) and cinnamic acid-dihydrodiol (CI-dihydrodiol), respectively"
+COG5517,4.0,common,Ring hydroxylating beta subunit
+COG1522,3.0,common,helix_turn_helix ASNC type
+COG3844,2.0,rare,"Catalyzes the cleavage of L-kynurenine (L-Kyn) and L-3- hydroxykynurenine (L-3OHKyn) into anthranilic acid (AA) and 3- hydroxyanthranilic acid (3-OHAA), respectively"
+COG0173,7.0,common,Catalyzes the attachment of L-aspartate to tRNA(Asp) in a two-step reaction L-aspartate is first activated by ATP to form Asp-AMP and then transferred to the acceptor end of tRNA(Asp)
+COG1951,2.0,rare,Fumarate hydratase
+COG1838,2.0,rare,Fumarase C-terminus
+COG1593,7.0,common,"TRAP-type C4-dicarboxylate transport system, large permease component"
+COG4166,5.0,common,Periplasmic oligopeptide-binding protein
+2E92A,2.0,rare,-
+COG0030,7.0,common,Specifically dimethylates two adjacent adenosines (A1518 and A1519) in the loop of a conserved hairpin near the 3'-end of 16S rRNA in the 30S particle. May play a critical role in biogenesis of 30S subunits
+COG3609,2.0,rare,transcriptional regulators containing the CopG Arc MetJ DNA-binding domain
+COG2368,3.0,common,4-hydroxyphenylacetate 3-monooxygenase oxygenase component
+COG2207,5.0,common,COG2207 AraC-type DNA-binding domain-containing proteins
+COG0183,3.0,common,Belongs to the thiolase family
+COG4268,2.0,rare,McrBC 5-methylcytosine restriction system
+COG0440,5.0,common,"acetolactate synthase, small"
+COG0059,5.0,common,"Involved in the biosynthesis of branched-chain amino acids (BCAA). Catalyzes an alkyl-migration followed by a ketol- acid reduction of (S)-2-acetolactate (S2AL) to yield (R)-2,3- dihydroxy-isovalerate. In the isomerase reaction, S2AL is rearranged via a Mg-dependent methyl migration to produce 3- hydroxy-3-methyl-2-ketobutyrate (HMKB). In the reductase reaction, this 2-ketoacid undergoes a metal-dependent reduction by NADPH to yield (R)-2,3-dihydroxy-isovalerate"
+COG3200,5.0,common,phospho-2-dehydro-3-deoxyheptonate aldolase
+COG4566,5.0,common,response regulator
+COG1970,5.0,common,"Large-conductance mechanosensitive channel, MscL"
+COG0805,4.0,common,"Part of the twin-arginine translocation (Tat) system that transports large folded proteins containing a characteristic twin-arginine motif in their signal peptide across membranes. Together with TatB, TatC is part of a receptor directly interacting with Tat signal peptides"
+COG4137,4.0,common,transport system permease component
+COG0541,5.0,common,"Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Binds to the hydrophobic signal sequence of the ribosome-nascent chain (RNC) as it emerges from the ribosomes. The SRP-RNC complex is then targeted to the cytoplasmic membrane where it interacts with the SRP receptor FtsY. Interaction with FtsY leads to the transfer of the RNC complex to the Sec translocase for insertion into the membrane, the hydrolysis of GTP by both Ffh and FtsY, and the dissociation of the SRP-FtsY complex into the individual components"
+COG1803,5.0,common,methylglyoxal synthase
+COG0799,7.0,common,"Functions as a ribosomal silencing factor. Interacts with ribosomal protein L14 (rplN), blocking formation of intersubunit bridge B8. Prevents association of the 30S and 50S ribosomal subunits and the formation of functional ribosomes, thus repressing translation"
+COG1576,7.0,common,Specifically methylates the pseudouridine at position 1915 (m3Psi1915) in 23S rRNA
+COG2857,6.0,common,cytochrome
+COG1290,7.0,common,"Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis"
+COG4665,7.0,common,"Tripartite ATP-independent periplasmic transporters, DctQ component"
+COG0158,7.0,common,Belongs to the FBPase class 1 family
+COG0735,7.0,common,Belongs to the Fur family
+COG0657,4.0,common,alpha/beta hydrolase fold
+COG0525,5.0,common,"amino acids such as threonine, to avoid such errors, it has a posttransfer editing activity that hydrolyzes mischarged Thr-tRNA(Val) in a tRNA-dependent manner"
+COG0267,2.0,rare,Belongs to the bacterial ribosomal protein bL33 family
+COG0759,6.0,common,Could be involved in insertion of integral membrane proteins into the membrane
+COG0706,7.0,common,"Required for the insertion and or proper folding and or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins. Aids folding of multispanning membrane proteins"
+COG0034,6.0,common,Catalyzes the formation of phosphoribosylamine from phosphoribosylpyrophosphate (PRPP) and glutamine
+COG0150,5.0,common,Phosphoribosylformylglycinamidine cyclo-ligase
+COG0299,2.0,rare,"Catalyzes the transfer of a formyl group from 10- formyltetrahydrofolate to 5-phospho-ribosyl-glycinamide (GAR), producing 5-phospho-ribosyl-N-formylglycinamide (FGAR) and tetrahydrofolate"
+COG0138,5.0,common,Bifunctional purine biosynthesis protein PurH
+COG1878,2.0,rare,Putative cyclase
+COG1396,6.0,common,sequence-specific DNA binding
+COG0156,7.0,common,Aminotransferase class I and II
+COG0161,7.0,common,Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family
+COG0596,5.0,common,Alpha/beta hydrolase family
+COG2908,6.0,common,"Hydrolyzes the pyrophosphate bond of UDP-2,3- diacylglucosamine to yield 2,3-diacylglucosamine 1-phosphate (lipid X) and UMP by catalyzing the attack of water at the alpha-P atom. Involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell"
+COG1952,7.0,common,"One of the proteins required for the normal export of preproteins out of the cell cytoplasm. It is a molecular chaperone that binds to a subset of precursor proteins, maintaining them in a translocation-competent state. It also specifically binds to its receptor SecA"
+COG1178,4.0,common,"Psort location CytoplasmicMembrane, score 10.00"
+COG1840,5.0,common,Bacterial extracellular solute-binding protein
+COG0055,6.0,common,Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits
+COG0224,2.0,rare,Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex
+COG0056,2.0,rare,Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit
+COG0712,2.0,rare,"F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation"
+COG0711,2.0,rare,"Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0)"
+COG0636,4.0,common,"F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation"
+COG0356,4.0,common,it plays a direct role in the translocation of protons across the membrane
+COG1074,7.0,common,"A helicase nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holoenzyme degrades any linearized DNA that is unable to undergo homologous recombination. In the holoenzyme this subunit contributes ATPase, 3'-5' helicase, exonuclease activity and loads RecA onto ssDNA"
+COG0507,6.0,common,A helicase nuclease that prepares dsDNA breaks (DSB) for recombinational DNA repair. Binds to DSBs and unwinds DNA via a highly rapid and processive ATP-dependent bidirectional helicase activity. Unwinds dsDNA until it encounters a Chi (crossover hotspot instigator) sequence from the 3' direction. Cuts ssDNA a few nucleotides 3' to the Chi site. The properties and activities of the enzyme are changed at Chi. The Chi-altered holoenzyme produces a long 3'-ssDNA overhang and facilitates RecA-binding to the ssDNA for homologous DNA recombination and repair. Holoenzyme degrades any linearized DNA that is unable to undergo homologous recombination. In the holoenzyme this subunit has ssDNA-dependent ATPase and 5'-3' helicase activity. When added to pre-assembled RecBC greatly stimulates nuclease activity and augments holoenzyme processivity. Negatively regulates the RecA-loading ability of RecBCD
+COG0415,2.0,rare,Belongs to the DNA photolyase family
+COG0395,6.0,common,"ABC-type sugar transport system, permease component"
+COG1175,5.0,common,"ABC-type sugar transport systems, permease components"
+COG1653,6.0,common,ABC transporter substrate-binding protein
+COG1430,6.0,common,"Uncharacterized ACR, COG1430"
+COG0184,7.0,common,Forms an intersubunit bridge (bridge B4) with the 23S rRNA of the 50S subunit in the ribosome
+COG1185,7.0,common,Involved in mRNA degradation. Catalyzes the phosphorolysis of single-stranded polyribonucleotides processively in the 3'- to 5'-direction
+2BW28,6.0,common,Protein of unknown function (DUF2798)
+COG0389,7.0,common,"Poorly processive, error-prone DNA polymerase involved in untargeted mutagenesis. Copies undamaged DNA at stalled replication forks, which arise in vivo from mismatched or misaligned primer ends. These misaligned primers can be extended by PolIV. Exhibits no 3'-5' exonuclease (proofreading) activity. May be involved in translesional synthesis, in conjunction with the beta clamp from PolIII"
+COG3553,2.0,rare,Uncharacterized protein conserved in bacteria (DUF2218)
+COG2373,5.0,common,Large extracellular alpha-helical protein
+COG2166,2.0,rare,SufE protein probably involved in Fe-S center assembly
+2EJ2A,2.0,rare,-
+COG3600,2.0,rare,Protein of unknown function (DUF4065)
+COG1739,5.0,common,Uncharacterized protein family UPF0029
+COG0190,6.0,common,"Catalyzes the oxidation of 5,10- methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate and then the hydrolysis of 5,10-methenyltetrahydrofolate to 10- formyltetrahydrofolate"
+COG2855,5.0,common,Belongs to the UPF0324 family
+COG0466,7.0,common,"ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner"
+COG0284,7.0,common,Catalyzes the decarboxylation of orotidine 5'- monophosphate (OMP) to uridine 5'-monophosphate (UMP)
+COG0461,5.0,common,Phosphoribosyl transferase domain
+COG2079,3.0,common,2-methylcitrate dehydratase
+COG2513,3.0,common,"Catalyzes the thermodynamically favored C-C bond cleavage of (2R,3S)-2-methylisocitrate to yield pyruvate and succinate"
+COG0728,6.0,common,Involved in peptidoglycan biosynthesis. Transports lipid-linked peptidoglycan precursors from the inner to the outer leaflet of the cytoplasmic membrane
+COG2358,6.0,common,NMT1-like family
+COG4729,6.0,common,Domain of unknown function (DUF1850)
+COG1457,4.0,common,Required for cytosine transport into the cell
+2EET7,2.0,rare,-
+COG1217,6.0,common,gtp-binding protein
+COG0436,5.0,common,aminotransferase
+COG0450,7.0,common,Alkyl hydroperoxide reductase
+COG0090,2.0,rare,"One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity"
+COG0089,2.0,rare,One of the early assembly proteins it binds 23S rRNA. One of the proteins that surrounds the polypeptide exit tunnel on the outside of the ribosome. Forms the main docking site for trigger factor binding to the ribosome
+COG0088,2.0,rare,Forms part of the polypeptide exit tunnel
+COG0087,2.0,rare,"One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit"
+COG0051,2.0,rare,Involved in the binding of tRNA to the ribosomes
+COG0480,4.0,common,"Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome"
+COG0133,5.0,common,The beta subunit is responsible for the synthesis of L- tryptophan from indole and L-serine
+COG0159,5.0,common,The alpha subunit is responsible for the aldol cleavage of indoleglycerol phosphate to indole and glyceraldehyde 3- phosphate
+COG3938,3.0,common,Belongs to the proline racemase family
+COG2321,5.0,common,Putative neutral zinc metallopeptidase
+COG2186,5.0,common,FCD
+COG0690,6.0,common,P-P-bond-hydrolysis-driven protein transmembrane transporter activity
+COG0250,6.0,common,"Participates in transcription elongation, termination and antitermination"
+COG0080,7.0,common,Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors
+COG0748,5.0,common,Heme iron utilization protein
+COG0571,7.0,common,"Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Processes some mRNAs, and tRNAs when they are encoded in the rRNA operon. Processes pre- crRNA and tracrRNA of type II CRISPR loci if present in the organism"
+COG0681,7.0,common,Belongs to the peptidase S26 family
+COG4606,7.0,common,FecCD transport family
+COG1038,5.0,common,Conserved carboxylase domain
+COG0079,5.0,common,Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family. Histidinol-phosphate aminotransferase subfamily
+COG0131,5.0,common,Histidine biosynthesis bifunctional protein HisB
+COG0106,4.0,common,imidazole-4-carboxamide isomerase
+COG0107,6.0,common,"IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisF subunit catalyzes the cyclization activity that produces IGP and AICAR from PRFAR using the ammonia provided by the HisH subunit"
+COG0141,5.0,common,Catalyzes the sequential NAD-dependent oxidations of L- histidinol to L-histidinaldehyde and then to L-histidine
+COG3215,7.0,common,COG3215 Tfp pilus assembly protein PilZ
+COG4111,4.0,common,belongs to the nudix hydrolase family
+COG0379,3.0,common,Catalyzes the condensation of iminoaspartate with dihydroxyacetone phosphate to form quinolinate
+COG0715,6.0,common,NMT1-like family
+COG1116,2.0,rare,ATPases associated with a variety of cellular activities
+COG1773,2.0,rare,"Psort location Cytoplasmic, score"
+COG2840,6.0,common,Smr domain
+COG1279,4.0,common,LysE type translocator
+COG0015,7.0,common,Belongs to the lyase 1 family. Adenylosuccinate lyase subfamily
+COG2363,7.0,common,Protein of unknown function (DUF423)
+COG2423,5.0,common,ornithine cyclodeaminase
+2CG84,5.0,common,May be involved in the control of utilization of gamma- aminobutyric acid
+2CKNI,5.0,common,Domain of unknown function (DUF3870)
+COG4222,4.0,common,Esterase-like activity of phytase
+COG0063,2.0,rare,"Catalyzes the dehydration of the S-form of NAD(P)HX at the expense of ADP, which is converted to AMP. Together with NAD(P)HX epimerase, which catalyzes the epimerization of the S- and R-forms, the enzyme allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration"
+COG0505,4.0,common,Belongs to the CarA family
+COG0458,4.0,common,Belongs to the CarB family
+COG1101,7.0,common,"AAA domain, putative AbiEii toxin, Type IV TA system"
+COG4120,6.0,common,Branched-chain amino acid transport system / permease component
+COG2984,7.0,common,ABC transporter substrate binding protein
+COG2084,2.0,rare,Belongs to the 3-hydroxyisobutyrate dehydrogenase family
+COG0157,6.0,common,Belongs to the NadC ModD family
+COG3530,6.0,common,protein conserved in bacteria
+COG4948,3.0,common,mandelate racemase muconate lactonizing
+COG4829,3.0,common,Muconolactone delta-isomerase
+COG3485,3.0,common,"catechol 1,2-dioxygenase"
+COG5557,6.0,common,tetrathionate reductase subunit C
+29K05,5.0,common,-
+COG4598,5.0,common,"AAA domain, putative AbiEii toxin, Type IV TA system"
+COG3015,7.0,common,lipoprotein NlpE involved in copper resistance
+COG4206,5.0,common,receptor
+COG2129,2.0,rare,Calcineurin-like phosphoesterase superfamily domain
+COG0197,4.0,common,Binds 23S rRNA and is also seen to make contacts with the A and possibly P site tRNAs
+COG0255,4.0,common,Belongs to the universal ribosomal protein uL29 family
+COG0186,4.0,common,"One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal RNA"
+COG0093,4.0,common,Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome
+COG0198,4.0,common,One of the proteins that surrounds the polypeptide exit tunnel on the outside of the subunit
+COG0094,4.0,common,"This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits"
+COG0199,4.0,common,"Binds 16S rRNA, required for the assembly of 30S particles and may also be responsible for determining the conformation of the 16S rRNA at the A site"
+COG0096,4.0,common,"One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit"
+COG0097,4.0,common,"This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7 L12 stalk, and near the tRNA binding site of the peptidyltransferase center"
+COG0256,4.0,common,"This is one of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance"
+COG0098,2.0,rare,Located at the back of the 30S subunit body where it stabilizes the conformation of the head with respect to the body
+COG1841,2.0,rare,Ribosomal protein L30p/L7e
+COG0200,2.0,rare,Binds to the 23S rRNA
+COG0201,2.0,rare,"The central subunit of the protein translocation channel SecYEG. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug. The plug probably moves laterally to allow the channel to open. The ring and the pore may move independently"
+COG0257,2.0,rare,Belongs to the bacterial ribosomal protein bL36 family
+COG0099,2.0,rare,"Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits"
+COG0100,2.0,rare,"Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine-Dalgarno cleft in the 70S ribosome"
+COG0522,3.0,common,"One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit"
+COG0202,4.0,common,DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+COG4953,4.0,common,penicillin-binding protein 1C
+COG0809,6.0,common,Transfers and isomerizes the ribose moiety from AdoMet to the 7-aminomethyl group of 7-deazaguanine (preQ1-tRNA) to give epoxyqueuosine (oQ-tRNA)
+2BK2T,5.0,common,-
+COG0754,5.0,common,Glutathionylspermidine synthase
+COG3311,2.0,rare,Transcriptional regulator
+COG1343,3.0,common,CRISPR associated protein Cas2
+2E4K4,2.0,rare,Putative CRISPR-associated protein (Cas_VVA1548)
+COG0699,3.0,common,50S ribosome-binding GTPase
+COG1190,7.0,common,Belongs to the class-II aminoacyl-tRNA synthetase family
+COG4735,2.0,rare,Domain of unknown function (DUF3944)
+COG3596,3.0,common,50S ribosome-binding GTPase
+2DI9C,2.0,rare,Domain of unknown function (DUF4878)
+COG3021,5.0,common,Endonuclease/Exonuclease/phosphatase family
+COG1479,5.0,common,Protein of unknown function DUF262
+COG1008,4.0,common,NADH ubiquinone oxidoreductase subunit
+COG4496,4.0,common,"protein, YerC YecD"
+COG0289,5.0,common,Catalyzes the conversion of 4-hydroxy- tetrahydrodipicolinate (HTPA) to tetrahydrodipicolinate
+COG1734,5.0,common,Transcription factor that acts by binding directly to the RNA polymerase (RNAP). Required for negative regulation of rRNA expression and positive regulation of several amino acid biosynthesis promoters. Also required for regulation of fis expression
+COG4006,3.0,common,Domain of unknown function (DUF1887)
+28IB0,2.0,rare,Radical S-adenosyl methionine
+COG0516,5.0,common,"Catalyzes the conversion of inosine 5'-phosphate (IMP) to xanthosine 5'-phosphate (XMP), the first committed and rate- limiting step in the de novo synthesis of guanine nucleotides, and therefore plays an important role in the regulation of cell growth"
+29597,4.0,common,Protein of unknown function (DUF3037)
+2CDR7,3.0,common,-
+COG1968,3.0,common,Catalyzes the dephosphorylation of undecaprenyl diphosphate (UPP). Confers resistance to bacitracin
+COG4723,3.0,common,tail assembly
+COG4672,3.0,common,Phage minor tail protein L
+COG4718,3.0,common,Minor tail
+2DNA4,4.0,common,"Phage tail tube, TTP, lambda-like"
+COG1288,4.0,common,C4-dicarboxylate anaerobic carrier
+COG0624,7.0,common,Peptidase dimerisation domain
+COG1086,2.0,rare,Multidrug MFS transporter
+COG1637,2.0,rare,Cleaves both 3' and 5' ssDNA extremities of branched DNA structures
+COG4626,4.0,common,Phage Terminase
+2E1G4,2.0,rare,-
+4QDH3,2.0,rare,-
+2E3C8,2.0,rare,Phage gp6-like head-tail connector protein
+COG3201,6.0,common,Nicotinamide mononucleotide transporter
+2BBWQ,2.0,rare,-
+COG1898,2.0,rare,"WxcM-like, C-terminal"
+COG1647,5.0,common,Esterase lipase
+COG0813,3.0,common,Phosphorylase superfamily
+COG3587,2.0,rare,Type III restriction
+COG5551,4.0,common,CRISPR-associated endoribonuclease Cas6
+COG3042,4.0,common,Domain of unknown function (DUF4377)
+2EDEJ,2.0,rare,-
+COG1106,3.0,common,"AAA domain, putative AbiEii toxin, Type IV TA system"
+COG4359,3.0,common,Putative Phosphatase
+COG0261,2.0,rare,This protein binds to 23S rRNA in the presence of protein L20
+COG0367,6.0,common,Asparagine synthase
+COG3079,7.0,common,Belongs to the UPF0149 family
+COG1262,2.0,rare,SapC
+COG3539,4.0,common,"COG3539 P pilus assembly protein, pilin FimA"
+arCOG06916,3.0,common,Domain of unknown function (DUF4276)
+COG4913,2.0,rare,"Putative exonuclease SbcCD, C subunit"
+COG3326,2.0,rare,Protein of unknown function (DUF1294)
+COG1785,3.0,common,alkaline phosphatase precursor (APASE) K01077
+COG0235,2.0,rare,Aldolase
+COG3395,4.0,common,protein conserved in bacteria
+COG1757,6.0,common,Na+/H+ antiporter family
+COG0669,5.0,common,"Reversibly transfers an adenylyl group from ATP to 4'- phosphopantetheine, yielding dephospho-CoA (dPCoA) and pyrophosphate"
+COG4106,5.0,common,trans-aconitate 2-methyltransferase activity
+COG0092,2.0,rare,"Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation"
+COG0091,2.0,rare,"The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome"
+COG0185,2.0,rare,Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA
+COG5005,3.0,common,Phage virion morphogenesis protein
+COG1604,3.0,common,cRISPR-associated
+COG3337,3.0,common,CRISPR-associated protein (Cas_Cmr5)
+COG1336,3.0,common,"RAMP protein, Cmr4"
+COG1769,3.0,common,CRISPR-associated protein (Cas_Cmr3)
+2DPW1,2.0,rare,-
+2C948,2.0,rare,Putative mono-oxygenase ydhR
+COG4570,2.0,rare,endodeoxyribonuclease RusA
+COG0338,2.0,rare,D12 class N6 adenine-specific DNA methyltransferase
+COG2314,2.0,rare,TM2 domain protein
+COG0582,4.0,common,Pfam:DUF4102
+COG1835,2.0,rare,Acyltransferase
+COG0438,5.0,common,Glycosyl transferases group 1
+COG1942,2.0,rare,Tautomerase enzyme
+COG3751,5.0,common,"Oxidoreductase, 2OG-Fe(II) oxygenase family protein"
+COG0677,2.0,rare,UDP binding domain
+COG1367,2.0,rare,RAMP superfamily
+COG1004,3.0,common,Belongs to the UDP-glucose GDP-mannose dehydrogenase family
+COG1216,2.0,rare,PFAM Glycosyl transferase family 2
+COG4333,2.0,rare,Protein of unknown function (DUF1643)
+COG3307,4.0,common,membrane
+COG3306,2.0,rare,Glycosyltransferase family 25 (LPS biosynthesis protein)
+COG0489,6.0,common,Binds and transfers iron-sulfur (Fe-S) clusters to target apoproteins. Can hydrolyze ATP
+COG0802,5.0,common,ATPase or kinase
+COG5505,3.0,common,Protein of unknown function (DUF819)
+COG2173,2.0,rare,Catalyzes hydrolysis of the D-alanyl-D-alanine dipeptide
+COG3897,2.0,rare,Lysine methyltransferase
+28NYX,2.0,rare,Protein of unknown function (DUF1097)
+2DBAX,2.0,rare,Protein of unknown function (DUF2877)
+COG3209,2.0,rare,COG3209 Rhs family protein
+COG3516,2.0,rare,"Type VI secretion system, VipA, VC_A0107 or Hcp2"
+COG3517,2.0,rare,type VI secretion protein
+COG3518,2.0,rare,type VI secretion system lysozyme-related protein
+COG3519,2.0,rare,type VI secretion protein
+COG3520,2.0,rare,"Type VI secretion, TssG"
+COG1716,2.0,rare,"conserved protein, contains FHA domain"
+COG3521,2.0,rare,protein conserved in bacteria
+COG3522,2.0,rare,type VI secretion protein
+COG3455,2.0,rare,"Type IV VI secretion system protein, DotU family"
+2C9Y5,2.0,rare,"Type VI secretion-associated protein, VC_A0118 family"
+COG3515,2.0,rare,protein conserved in bacteria
+COG3523,2.0,rare,type VI secretion protein
+COG4695,5.0,common,Phage-related capsid packaging protein
+COG1484,2.0,rare,DNA replication protein
+COG4197,2.0,rare,DNA-binding transcriptional regulator Cro
+COG3081,2.0,rare,37-kD nucleoid-associated bacterial protein
+2E3ZD,2.0,rare,Protein of unknown function (DUF1656)
+COG3491,4.0,common,Belongs to the iron ascorbate-dependent oxidoreductase family
+COG1272,3.0,common,hemolysin III
+COG2508,2.0,rare,Purine catabolism regulatory protein-like family
+COG3450,2.0,rare,Protein of unknown function (DUF861)
+COG3562,4.0,common,Capsule polysaccharide biosynthesis protein
+COG3378,3.0,common,P22_AR N-terminal domain
+COG4928,2.0,rare,KAP family P-loop domain
+2DSB0,2.0,rare,-
+COG2897,2.0,rare,PFAM Rhodanese-like domain
+COG0431,2.0,rare,NAD(P)H-dependent FMN reductase
+COG3735,2.0,rare,TraB family
+COG1062,2.0,rare,"COG1062 Zn-dependent alcohol dehydrogenases, class III"
+2C8AW,4.0,common,-
+COG3038,2.0,rare,Cytochrome B561
+COG2982,2.0,rare,Protein involved in outer membrane biogenesis
+COG0270,3.0,common,C-5 cytosine-specific DNA methylase
+2BGYI,2.0,rare,NgoBV restriction endonuclease
+2AQWX,2.0,rare,Relaxase/Mobilisation nuclease domain
+2C17R,2.0,rare,-
+COG1215,2.0,rare,Glycosyltransferase like family 2
+COG0833,2.0,rare,"amino acid polyamine organocation transporter, APC superfamily"
+COG1524,3.0,common,Type I phosphodiesterase / nucleotide pyrophosphatase
+COG3949,4.0,common,"Psort location CytoplasmicMembrane, score"
+COG2067,2.0,rare,long-chain fatty acid transport protein
+COG2378,3.0,common,WYL domain
+28KUB,2.0,rare,-
+2A8TR,2.0,rare,-
+2ETV8,2.0,rare,Domain of unknown function (DUF4258)
+COG3531,2.0,rare,Protein-disulfide isomerase
+COG2274,2.0,rare,ABC transporter transmembrane region
+2CJUF,2.0,rare,CRISPR-associated protein (Cas_Csy4)
+2C5IZ,2.0,rare,Glycine zipper 2TM domain
+2DR70,3.0,common,Protein of unknown function (DUF2474)
+COG1733,2.0,rare,HxlR-like helix-turn-helix
+COG1690,3.0,common,tRNA-splicing ligase RtcB
+COG3153,2.0,rare,acetyltransferase
+COG0846,3.0,common,NAD-dependent lysine deacetylase and desuccinylase that specifically removes acetyl and succinyl groups on target proteins. Modulates the activities of several proteins which are inactive in their acylated form
+COG3501,2.0,rare,type VI secretion system Vgr family protein
+COG3157,2.0,rare,Type VI secretion system effector (Hcp1
+COG5283,2.0,rare,Phage-related minor tail protein
+COG3499,2.0,rare,Phage P2 GpU
+COG3500,2.0,rare,Phage late control gene D protein (GPD)
+2CHRA,2.0,rare,"Phage tail assembly chaperone, TAC"
+299N2,2.0,rare,"Bacteriophage HK97-gp10, putative tail-component"
+COG4459,5.0,common,periplasmic nitrate reductase
+COG1210,3.0,common,UTP-glucose-1-phosphate uridylyltransferase
+COG1564,4.0,common,"Thiamin pyrophosphokinase, vitamin B1 binding domain"
+2DBRB,2.0,rare,Membrane bound FAD containing D-sorbitol dehydrogenase
+COG0742,5.0,common,Specifically methylates the guanine in position 966 of 16S rRNA in the assembled 30S particle
+COG0241,5.0,common,"D,D-heptose 1,7-bisphosphate phosphatase"
+COG0751,5.0,common,Glycyl-tRNA synthetase beta subunit
+COG0385,3.0,common,Na -dependent transporter
+COG1416,3.0,common,DsrE/DsrF-like family
+COG2240,3.0,common,Pyridoxal kinase
+COG5523,2.0,rare,integral membrane protein
+COG5463,3.0,common,Protein of unknown function (DUF1190)
+COG3740,2.0,rare,PFAM peptidase U35 phage prohead HK97
+COG3023,2.0,rare,"Psort location Cytoplasmic, score 8.96"
+COG1788,2.0,rare,Coenzyme A transferase
+COG2057,2.0,rare,3-oxoadipate CoA-transferase activity
+COG0662,2.0,rare,4-hydroxyphenylacetate catabolism regulatory protein HpaA
+COG4748,2.0,rare,Type I restriction enzyme R protein N terminus (HSDR_N)
+COG0627,3.0,common,Putative esterase
+28KMG,2.0,rare,-
+COG1353,3.0,common,"CRISPR-associated protein, Cmr2 family"
+COG0704,4.0,common,Plays a role in the regulation of phosphate uptake
+COG1117,4.0,common,Part of the ABC transporter complex PstSACB involved in phosphate import. Responsible for energy coupling to the transport system
+COG2353,2.0,rare,YceI-like domain
+COG0123,2.0,rare,Histone deacetylase domain
+29XM3,2.0,rare,-
+COG2421,3.0,common,Acetamidase
+COG3524,3.0,common,COG3524 Capsule polysaccharide export protein
+COG1596,2.0,rare,COG1596 Periplasmic protein involved in polysaccharide export
+COG1682,2.0,rare,ABC-2 type transporter
+COG2116,2.0,rare,Formate/nitrite transporter
+2DIHQ,2.0,rare,Helix-turn-helix XRE-family like proteins
+COG1172,3.0,common,Branched-chain amino acid transport system / permease component
+COG2354,3.0,common,Protein of unknown function (DUF808)
+COG0152,5.0,common,Belongs to the SAICAR synthetase family
+2EF8U,2.0,rare,Phage gp6-like head-tail connector protein
+COG3069,3.0,common,C4-dicarboxylate anaerobic carrier
+COG4373,3.0,common,Putative ATPase subunit of terminase (gpP-like)
+2CAV1,2.0,rare,Phage capsid scaffolding protein (GPO) serine peptidase
+2CCQ9,2.0,rare,capsid protein
+2DKUP,2.0,rare,Phage small terminase subunit
+COG3926,2.0,rare,Predicted Peptidoglycan domain
+COG5652,3.0,common,VanZ like family
+28IPT,2.0,rare,-
+COG3728,2.0,rare,Terminase small subunit
+COG2104,2.0,rare,ThiS family
+COG0384,2.0,rare,"Phenazine biosynthesis protein, PhzF family"
+COG4653,2.0,rare,capsid protein
+COG3535,2.0,rare,Protein of unknown function (DUF917)
+COG4132,2.0,rare,"Psort location CytoplasmicMembrane, score 10.00"
+COG4733,2.0,rare,"Phage-related protein, tail component"
+28NQ0,2.0,rare,Domain of unknown function (DUF4391)
+4QB1F,2.0,rare,exonuclease activity
+COG1061,2.0,rare,Type III restriction enzyme res subunit
+COG0274,2.0,rare,Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy- D-ribose 5-phosphate
+COG3971,2.0,rare,hydratase
+COG0318,2.0,rare,Catalyzes the conversion of ferulic acid to feruloyl-CoA
+COG4569,2.0,rare,"Catalyzes the conversion of acetaldehyde to acetyl-CoA, using NAD( ) and coenzyme A. Is the final enzyme in the meta- cleavage pathway for the degradation of aromatic compounds"
+COG1712,2.0,rare,Specifically catalyzes the NAD or NADP-dependent dehydrogenation of L-aspartate to iminoaspartate
+COG2865,2.0,rare,Putative DNA-binding domain
+COG3765,2.0,rare,G-rich domain on putative tyrosine kinase
+COG4115,2.0,rare,"Addiction module toxin, Txe YoeB"
+2DMHQ,1.0,unique,Arsenic resistance operon repressor
+COG0003,1.0,unique,Anion-transporting ATPase
+COG2860,1.0,unique,UPF0126 domain
+28K06,1.0,unique,-
+COG0399,1.0,unique,Belongs to the DegT DnrJ EryC1 family
+2DMJC,1.0,unique,Domain of unknown function (DUF4186)
+2EIV9,1.0,unique,Domain of unknown function (DUF4258)
+2C5DM,1.0,unique,Alternative locus ID
+28ZYZ,1.0,unique,-
+COG3436,1.0,unique,IS66 Orf2 like protein
+COG3321,1.0,unique,polyketide synthase
+COG4823,1.0,unique,Abi-like protein
+COG1724,1.0,unique,"HicA toxin of bacterial toxin-antitoxin,"
+COG1598,1.0,unique,HicB_like antitoxin of bacterial toxin-antitoxin system
+COG2236,1.0,unique,"Acts on guanine, xanthine and to a lesser extent hypoxanthine"
+COG1487,1.0,unique,Domain of unknown function (DUF4411)
+COG0613,1.0,unique,nuclear chromosome segregation
+2CETA,1.0,unique,-
+COG4461,1.0,unique,heat shock protein binding
+2D64X,1.0,unique,VanZ domain protein
+2EJDT,1.0,unique,-
+COG1672,1.0,unique,PFAM Archaeal ATPase
+COG1708,1.0,unique,Domain of unknown function (DUF4111)
+COG0555,1.0,unique,Binding-protein-dependent transport system inner membrane component
+2DBHY,1.0,unique,-
+2AMVR,1.0,unique,-
+2F67R,1.0,unique,-
+COG3344,1.0,unique,Reverse transcriptase (RNA-dependent DNA polymerase)
+COG3598,1.0,unique,AAA domain
+29S66,1.0,unique,-
+COG0175,1.0,unique,COG0175 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase) FAD synthetase and related enzymes
+2B0IH,1.0,unique,-
+COG5281,1.0,unique,Tail length tape measure protein
+2AZTF,1.0,unique,-
+COG1804,1.0,unique,CoA-transferase family
+COG2086,1.0,unique,Electron transfer flavoprotein
+COG2025,1.0,unique,electron transfer flavoprotein
+COG0644,1.0,unique,FAD dependent oxidoreductase
+COG1715,1.0,unique,Restriction endonuclease
+4QB6G,1.0,unique,Peptidase M15
+2E0CB,1.0,unique,-
+2BU3S,1.0,unique,-
+COG0800,1.0,unique,COG0800 2-keto-3-deoxy-6-phosphogluconate aldolase
+COG1312,1.0,unique,Catalyzes the dehydration of D-mannonate
+COG1501,1.0,unique,Domain of unknown function (DUF5110)
+COG0246,1.0,unique,Mannitol dehydrogenase
+COG1904,1.0,unique,Glucuronate isomerase
+29GKX,1.0,unique,-
+2BW5S,1.0,unique,Domain of unknown function (DUF4194)
+COG0675,1.0,unique,Putative transposase DNA-binding domain
+COG4096,1.0,unique,EcoEI R protein C-terminal
+COG0463,1.0,unique,Glycosyltransferase like family 2
+2DU37,1.0,unique,Protein of unknown function (DUF1364)
+COG0429,1.0,unique,PFAM Alpha beta hydrolase
+2CAM1,1.0,unique,-
+COG2931,1.0,unique,Autotransporter beta-domain
+COG2425,1.0,unique,Lecithin retinol acyltransferase
+2DQ30,1.0,unique,-
+COG0515,1.0,unique,Domain of unknown function (DUF4328)
+2DICJ,1.0,unique,-
+COG1091,1.0,unique,Catalyzes the reduction of dTDP-6-deoxy-L-lyxo-4- hexulose to yield dTDP-L-rhamnose
+COG3774,1.0,unique,pathogenesis
+COG1442,1.0,unique,glycosyl transferase family 8
+28MFQ,1.0,unique,Glycosyltransferase family 52
+2CH35,1.0,unique,-
+COG1018,1.0,unique,Flavodoxin reductases (Ferredoxin-NADPH reductases) family 1
+COG3396,1.0,unique,Phenylacetic acid catabolic protein
+COG3460,1.0,unique,Phenylacetate-CoA oxygenase subunit PaaB
+COG1024,1.0,unique,enoyl-CoA hydratase
+COG1541,1.0,unique,Catalyzes the activation of phenylacetic acid (PA) to phenylacetyl-CoA (PA-CoA)
+COG1250,1.0,unique,3-hydroxyacyl-CoA dehydrogenase
+COG4727,1.0,unique,Uncharacterized protein conserved in bacteria (DUF2145)
+COG3154,1.0,unique,lipid carrier protein
+2DB92,1.0,unique,-
+28MN3,1.0,unique,-
+4QCRY,1.0,unique,Phage minor tail protein
+2C0IN,1.0,unique,-
+COG3829,1.0,unique,Sigma-54 interaction domain
+2CJBF,1.0,unique,-
+4QAX8,1.0,unique,calcium ion binding
+28NJ6,1.0,unique,Beta protein
+28M7B,1.0,unique,-
+2DQVG,1.0,unique,-
+COG0435,1.0,unique,"Glutathione S-transferase, N-terminal domain"
+COG5472,1.0,unique,Predicted small integral membrane protein (DUF2165)
+2DBJ7,1.0,unique,Abi-like protein
+COG5527,1.0,unique,Initiator Replication protein
+COG4452,1.0,unique,Inner membrane protein involved in colicin E2 resistance
+29HJ3,1.0,unique,-
+COG1748,1.0,unique,Domain of unknown function (DUF4166)
+COG1783,1.0,unique,Terminase RNaseH-like domain
+28IAN,1.0,unique,Domain of unknown function (DUF4055)
+2DPRS,1.0,unique,-
+2FK3Z,1.0,unique,RNA ligase
+2EGR8,1.0,unique,FeoC like transcriptional regulator
+2DU2E,1.0,unique,-
+29Z9K,1.0,unique,Protein of unknown function (DUF3592)
+2DTNT,1.0,unique,-
+COG3230,1.0,unique,Heme oxygenase
+COG2832,1.0,unique,Protein of unknown function (DUF454)
+2BCQC,1.0,unique,-
+2BXIN,1.0,unique,-
+COG0714,1.0,unique,ATPase involved in DNA repair
+2DT3B,1.0,unique,-
+COG2059,1.0,unique,Chromate transporter
+COG3739,1.0,unique,Protein of unknown function (DUF817)
+2EN6U,1.0,unique,STAS-like domain of unknown function (DUF4325)
+2DS0M,1.0,unique,-
+2AIFY,1.0,unique,-
+4QFWQ,1.0,unique,-
+2BK8C,1.0,unique,-
+COG5492,1.0,unique,"domain, Protein"
+28IY5,1.0,unique,-
+2EJCN,1.0,unique,-
+COG1322,1.0,unique,Protein conserved in bacteria
+COG1360,1.0,unique,OmpA family
+2C6JC,1.0,unique,EH_Signature domain
+2EHP5,1.0,unique,Bacterial mobilisation protein (MobC)
+2AXFT,1.0,unique,-
+COG4627,1.0,unique,"transferase activity, transferring glycosyl groups"
+28PTC,1.0,unique,"Type VI secretion system VasI, EvfG, VC_A0118"
+2EDJ0,1.0,unique,-
+2DWDD,1.0,unique,-
+COG0827,1.0,unique,Eco57I restriction-modification methylase
+2B9YA,1.0,unique,-
+2BV8H,1.0,unique,-
+2DZM1,1.0,unique,Domain of unknown function (DUF4822)
+COG5266,1.0,unique,Domain of unknown function (DUF4198)
+2E451,1.0,unique,-
+4QAK6,1.0,unique,N-acetylmuramoyl-L-alanine amidase activity
+2EDXJ,1.0,unique,-
+2DQPR,1.0,unique,-
+2AG24,1.0,unique,-
+COG2268,1.0,unique,protein conserved in bacteria
+2B2JA,1.0,unique,-
+COG1636,1.0,unique,"Catalyzes the conversion of epoxyqueuosine (oQ) to queuosine (Q), which is a hypermodified base found in the wobble positions of tRNA(Asp), tRNA(Asn), tRNA(His) and tRNA(Tyr)"
+2BGWR,1.0,unique,-
+COG1666,1.0,unique,Belongs to the UPF0234 family
+COG0122,1.0,unique,HhH-GPD superfamily base excision DNA repair protein
+COG5290,1.0,unique,"Psort location Cytoplasmic, score"
+2E8U5,1.0,unique,Protein of unknown function (DUF3311)
+29PMQ,1.0,unique,-
+COG0693,1.0,unique,Intracellular protease
+COG2032,1.0,unique,Copper/zinc superoxide dismutase (SODC)
+2ASE4,1.0,unique,SnoaL-like domain
+2CFH0,1.0,unique,-
+COG4700,1.0,unique,protein conserved in bacteria containing a divergent form of TPR repeats
+2E3VJ,1.0,unique,-
+2AGYS,1.0,unique,-
+2CE55,1.0,unique,YccJ-like protein
+2ABJH,1.0,unique,Domain of unknown function (DUF4339)
+COG2910,1.0,unique,NAD(P)H-binding
+28KCG,1.0,unique,Domain of unknown function (DUF1788)
+28NXU,1.0,unique,Putative inner membrane protein (DUF1819)
+COG3103,1.0,unique,Sh3 type 3 domain protein
+2EHU7,1.0,unique,-
+COG1695,1.0,unique,PFAM transcriptional regulator PadR family protein
+2DSAW,1.0,unique,-
+COG2056,1.0,unique,Na+-H+ antiporter family
+2975H,1.0,unique,Domain of unknown function (DUF4760)
+2EGRT,1.0,unique,Protein of unknown function (DUF2511)
+4QB3I,1.0,unique,Protein of unknown function (DUF3168)
+2FEZX,1.0,unique,-
+2EI3E,1.0,unique,Phage gp6-like head-tail connector protein
+2E01R,1.0,unique,-
+28NR6,1.0,unique,-
+2BYYW,1.0,unique,Domain of unknown function (DUF4123)
+COG1413,1.0,unique,Domain of unknown function (DUF4132)
+COG2357,1.0,unique,protein conserved in bacteria
+4QB07,1.0,unique,hydroxymethylglutaryl-CoA reductase (NADPH) activity
+COG2182,1.0,unique,TupA-like ATPgrasp
+COG2027,1.0,unique,D-Ala-D-Ala carboxypeptidase 3 (S13) family
+COG0062,1.0,unique,"Bifunctional enzyme that catalyzes the epimerization of the S- and R-forms of NAD(P)HX and the dehydration of the S-form of NAD(P)HX at the expense of ADP, which is converted to AMP. This allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration"
+COG4907,1.0,unique,Predicted membrane protein (DUF2207)
+2CCS2,1.0,unique,-
+2DC0P,1.0,unique,Sugar-transfer associated ATP-grasp
+COG2148,1.0,unique,Bacterial sugar transferase
+28R7V,1.0,unique,"Psort location Cytoplasmic, score 8.96"
+COG4095,1.0,unique,Sugar efflux transporter for intercellular exchange
+COG4574,1.0,unique,"General inhibitor of pancreatic serine proteases inhibits chymotrypsin, trypsin, elastases, factor X, kallikrein as well as a variety of other proteases"
+COG3695,1.0,unique,methylated DNA-protein cysteine methyltransferase
+2E40P,1.0,unique,-
+COG3127,1.0,unique,"ABC-type transport system involved in lysophospholipase L1 biosynthesis, permease component"
+COG4181,1.0,unique,(ABC) transporter
+COG5383,1.0,unique,DUF1338
+COG0819,1.0,unique,"Catalyzes an amino-pyrimidine hydrolysis reaction at the C5' of the pyrimidine moiety of thiamine compounds, a reaction that is part of a thiamine salvage pathway"
+COG2153,1.0,unique,Acyltransferase
+COG2985,1.0,unique,Predicted Permease Membrane Region
+COG1510,1.0,unique,Belongs to the GbsR family
+2EFPB,1.0,unique,-
+2CI9I,1.0,unique,Protein of unknown function (DUF2931)
+COG0836,1.0,unique,Phosphoglucomutase phosphomannomutase alpha beta alpha domain I
+28PK8,1.0,unique,-
+COG1410,1.0,unique,methionine synthase
+COG4938,1.0,unique,AAA ATPase domain
+2AUHR,1.0,unique,-
+29TTU,1.0,unique,PD-(D/E)XK nuclease superfamily
+COG1746,1.0,unique,tRNA cytidylyltransferase activity
+295GZ,1.0,unique,-
+2EGQR,1.0,unique,tRNA_anti-like
+2EHYV,1.0,unique,-
+COG4127,1.0,unique,FRG
+2DNB5,1.0,unique,"Bacteriophage HK97-gp10, putative tail-component"
+COG1247,1.0,unique,GNAT acetyltransferase
+2F7II,1.0,unique,Peptidase S24-like
+4QAQV,1.0,unique,sequence-specific DNA binding
+2EIRC,1.0,unique,Required for the export of heme to the periplasm for the biogenesis of c-type cytochromes
+2CHBY,1.0,unique,-
+COG5421,1.0,unique,Transposase DDE domain
+2CXUI,1.0,unique,DNA-packaging protein gp3
+COG5362,1.0,unique,to GI 3249594 (percent identity 29 query alignment coverage 89.6 subject alignment coverage 35.0 )
+COG1910,1.0,unique,PBP superfamily domain
+4QCXT,1.0,unique,-
+2DNYJ,1.0,unique,-
+2EMDB,1.0,unique,Helix-turn-helix domain
+COG3645,1.0,unique,Phage antirepressor protein KilAC domain
+2AUQA,1.0,unique,Helix-turn-helix domain
+COG4248,1.0,unique,Lipopolysaccharide kinase (Kdo/WaaP) family
+COG0631,1.0,unique,Protein phosphatase 2C
+COG4245,1.0,unique,TerY-C metal binding domain
+COG2310,1.0,unique,TerD domain
+COG2225,1.0,unique,Malate synthase
+COG2224,1.0,unique,isocitrate lyase
+COG4579,1.0,unique,isocitrate dehydrogenase kinase phosphatase
+4QEN2,1.0,unique,Putative ATPase subunit of terminase (gpP-like)
+2CFKH,1.0,unique,-
+2DBTR,1.0,unique,-
+COG0406,1.0,unique,Phosphoglycerate mutase family
+COG1236,1.0,unique,Metallo-beta-lactamase superfamily
+COG0535,1.0,unique,Radical SAM
+2CPS1,1.0,unique,Protein of unknown function (DUF3298)
+COG0253,1.0,unique,"Catalyzes the stereoinversion of LL-2,6- diaminoheptanedioate (L,L-DAP) to meso-diaminoheptanedioate (meso- DAP), a precursor of L-lysine"
+COG1965,1.0,unique,Frataxin-like domain
+COG3072,1.0,unique,adenylate cyclase (ATP pyrophosphate-lyase) (adenylyl cyclase) K05851
+28NWR,1.0,unique,PD-(D/E)XK nuclease superfamily
+2DMMN,1.0,unique,TniQ
+28NE4,1.0,unique,-
+COG3793,1.0,unique,Tellurite resistance
+COG2301,1.0,unique,COG2301 Citrate lyase beta subunit
+COG1358,1.0,unique,PELOTA RNA binding domain
+2ANUK,1.0,unique,Bacterial mobilisation protein (MobC)
+COG0277,1.0,unique,FAD linked oxidase domain protein
+COG3477,1.0,unique,Protein of unknown function (DUF1440)
+COG0075,1.0,unique,Belongs to the class-V pyridoxal-phosphate-dependent aminotransferase family. PhnW subfamily
+COG0637,1.0,unique,Belongs to the HAD-like hydrolase superfamily. PhnX family
+COG1725,1.0,unique,GntR family
+COG1001,1.0,unique,Adenine deaminase C-terminal domain
+2BYXQ,1.0,unique,ApaLI-like restriction endonuclease
+2AX1N,1.0,unique,Protein of unknown function (DUF2806)
+2DMYU,1.0,unique,-
+COG4625,1.0,unique,"Phage-related protein, tail component"
+COG1620,1.0,unique,L-lactate permease
+2E302,1.0,unique,-
+2EHY9,1.0,unique,-
+29VP9,1.0,unique,-
+COG1985,1.0,unique,RibD C-terminal domain
+2AXA1,1.0,unique,-
+COG5534,1.0,unique,Plasmid replication initiator
+2DCT7,1.0,unique,-
+2EBY6,1.0,unique,Organic solvent tolerance protein
+2DS5N,1.0,unique,-
+2D4T1,1.0,unique,SapC
+COG3755,1.0,unique,Pfam:DUF1311
+COG5015,1.0,unique,PFAM pyridoxamine 5'-phosphate
+2CM6Y,1.0,unique,Phage head completion protein (GPL)
+COG4540,1.0,unique,Baseplate assembly protein
+COG3628,1.0,unique,Baseplate assembly protein
+COG3948,1.0,unique,Baseplate J-like protein
+COG4385,1.0,unique,tail protein
+COG3497,1.0,unique,Phage tail sheath C-terminal domain
+COG3498,1.0,unique,Phage tail tube protein FII
+2E3XV,1.0,unique,"Phage tail assembly chaperone proteins, E, or 41 or 14"
+2FIYP,1.0,unique,-
+COG2932,1.0,unique,Peptidase S24-like protein
+2EJ02,1.0,unique,Arc-like DNA binding domain
+2BBNN,1.0,unique,-
+COG0863,1.0,unique,DNA methylase
+COG1575,1.0,unique,Belongs to the MenA family. Type 1 subfamily
+2C8G3,1.0,unique,Domain of unknown function (DUF4303)
+COG2979,1.0,unique,Protein of unknown function (DUF533)
+COG1073,1.0,unique,"Serine aminopeptidase, S33"
+COG1515,1.0,unique,DNA repair enzyme involved in the repair of deaminated bases. Selectively cleaves double-stranded DNA at the second phosphodiester bond 3' to a deoxyinosine leaving behind the intact lesion on the nicked DNA
+arCOG12470,1.0,unique,T5orf172
+2EGC8,1.0,unique,-
+2D7I9,1.0,unique,phage protein
+2A09X,1.0,unique,-
+28M7C,1.0,unique,"Psort location CytoplasmicMembrane, score"
+2AG2E,1.0,unique,-
+2DM6W,1.0,unique,Protein of unknown function (DUF3168)
+2EJTH,1.0,unique,YecR-like lipoprotein
+COG5510,1.0,unique,response to toxic substance
+COG2005,1.0,unique,Transcriptional regulator
+2ERCW,1.0,unique,-
+2CBEZ,1.0,unique,-
+COG2333,1.0,unique,Metallo-beta-lactamase superfamily
+2DBDH,1.0,unique,-
+COG4637,1.0,unique,AAA ATPase domain
+COG3593,1.0,unique,ATP-dependent endonuclease of the OLD family
+COG2839,1.0,unique,"Psort location CytoplasmicMembrane, score"
+COG1875,1.0,unique,"SMART Nucleotide binding protein, PINc"
+COG1832,1.0,unique,CoA-binding protein
+2DSFH,1.0,unique,Protein of unknown function (DUF2726)
+COG1528,1.0,unique,Ferritin-like domain
+2E9YS,1.0,unique,Protein of unknown function (DUF3592)
+COG4643,1.0,unique,DNA integration
+COG4325,1.0,unique,Membrane
+2DNWH,1.0,unique,Protein of unknown function (DUF4031)
+2DM22,1.0,unique,Arc-like DNA binding domain
+2DR5Z,1.0,unique,-
+COG3895,1.0,unique,Periplasmic Protein
+2AUTE,1.0,unique,Protein of unknown function (DUF2474)
+COG2249,1.0,unique,NADPH quinone reductase MdaB
+COG1872,1.0,unique,DUF167
+2EH60,1.0,unique,Protein of unknown function (DUF2798)
+28NHJ,1.0,unique,-
+2ECIQ,1.0,unique,-
+2B1UF,1.0,unique,An automated process has identified a potential problem with this gene model
+2AJ84,1.0,unique,Family of unknown function (DUF5368)
+2EDVE,1.0,unique,-
+COG4812,1.0,unique,Cobalamin adenosyltransferase
+COG4766,1.0,unique,Ethanolamine utilization protein eutQ
+2DQZF,1.0,unique,-
+COG3676,1.0,unique,Transposase and inactivated derivatives
+COG1208,1.0,unique,"COG1208 Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis translation initiation factor 2B, gamma epsilon subunits eIF-2Bgamma eIF-2Bepsilon"
+COG4924,1.0,unique,Uncharacterized protein conserved in bacteria C-term(DUF2220)
+2CB46,1.0,unique,Domain of unknown function (DUF4194)
+2DNN1,1.0,unique,-
+2E1F4,1.0,unique,-
+28RG9,1.0,unique,-
+COG1401,1.0,unique,AAA domain (dynein-related subfamily)
+COG1015,1.0,unique,Phosphotransfer between the C1 and C5 carbon atoms of pentose
+COG4950,1.0,unique,Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity
+2CJP6,1.0,unique,Eco47II restriction endonuclease
+2C953,1.0,unique,ParD-like antitoxin of type II bacterial toxin-antitoxin system
+COG4143,1.0,unique,thiamine ABC transporter
+COG3840,1.0,unique,ATPases associated with a variety of cellular activities
+COG2232,1.0,unique,ATP-grasp in the biosynthetic pathway with Ter operon
+COG3341,1.0,unique,Caulimovirus viroplasmin
+COG4710,1.0,unique,CopG domain protein DNA-binding domain protein
+COG1517,1.0,unique,"TIGRFAM CRISPR-associated protein, TM1812 family"
+2CK2U,1.0,unique,-
+COG1134,1.0,unique,ABC transporter
+2EQHP,1.0,unique,-
+COG4576,1.0,unique,Ethanolamine utilization protein eutN
+COG1387,1.0,unique,DNA polymerase alpha chain like domain
+2BSSX,1.0,unique,-
+COG0543,1.0,unique,Oxidoreductase FAD-binding domain
+COG3135,1.0,unique,Benzoate membrane transport protein
+2CDKX,1.0,unique,Domain of unknown function (DUF4387)
+2EPB2,1.0,unique,-
+2ADS8,1.0,unique,-
+COG2031,1.0,unique,Short chain fatty acid transporter
+COG0784,1.0,unique,"Response regulator, receiver"
+28KJ3,1.0,unique,-
+2EJFV,1.0,unique,-
+2EHTW,1.0,unique,-
+2EBGV,1.0,unique,-
+COG2304,1.0,unique,"COG2931, RTX toxins and related Ca2 -binding proteins"
+28ICC,1.0,unique,-
+28VWZ,1.0,unique,-
+COG5585,1.0,unique,A nuclease of the HNH/ENDO VII superfamily with conserved WHH
+2EA34,1.0,unique,-
+COG4715,1.0,unique,zinc ion binding
+2DBEM,1.0,unique,Domain of unknown function (DUF4433)
+COG0600,1.0,unique,Binding-protein-dependent transport system inner membrane component
+28IR4,1.0,unique,-
+COG1816,1.0,unique,Catalyzes the hydrolytic deamination of adenine to hypoxanthine. Plays an important role in the purine salvage pathway and in nitrogen catabolism
+2CEAV,1.0,unique,-
